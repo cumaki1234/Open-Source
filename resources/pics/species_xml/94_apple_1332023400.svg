@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg3689"
+    sodipodi:docname="Novo documento 5"
+    viewBox="0 0 217.04 300.68"
+    version="1.1"
+    inkscape:version="0.47 r22583"
+  >
+  <defs
+      id="defs3691"
+    >
+    <radialGradient
+        id="radialGradient3643"
+        gradientUnits="userSpaceOnUse"
+        cy="634.88"
+        cx="760.39"
+        gradientTransform="matrix(-1.4265 .47198 -1.4759 -.49250 2782.1 590.78)"
+        r="6.594"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3639"
+          style="stop-color:#28170b"
+          offset="0"
+      />
+      <stop
+          id="stop3641"
+          style="stop-color:#28170b;stop-opacity:0"
+          offset="1"
+      />
+    </radialGradient
+    >
+    <radialGradient
+        id="radialGradient3633"
+        gradientUnits="userSpaceOnUse"
+        cy="863.26"
+        cx="1562.6"
+        gradientTransform="matrix(-1.6578 .76115 -.65958 -1.4366 3309.4 944.99)"
+        r="108.52"
+        inkscape:collect="always"
+      >
+      <stop
+          id="stop3629"
+          style="stop-color:#ff0000"
+          offset="0"
+      />
+      <stop
+          id="stop3631"
+          style="stop-color:#333333;stop-opacity:0"
+          offset="1"
+      />
+    </radialGradient
+    >
+  </defs
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="743"
+      inkscape:window-maximized="1"
+      inkscape:zoom="0.7"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="247.28079"
+      inkscape:cy="181.2321"
+      inkscape:window-width="1280"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Camada 1"
+      inkscape:groupmode="layer"
+      transform="translate(-4.0529 -749.45)"
+    >
+    <path
+        id="path3645"
+        sodipodi:nodetypes="cccccccccc"
+        style="fill:#008000"
+        d="m91.297 861.23c-0.5681-7.0324-0.9823-14.039-0.1427-20.837 5.7084-14.408 18.932-23.045 26.393-26.842 10.47-5.7329 26.623-13.411 39.286-29.286 14.57-19.555 12.365-27.774 13.214-34.821 4.5019 11.718 9.6751 19.561 9.6428 38.036 0.4516 17.156-11.284 44.593-30.714 50.714l-42.678 24.286-14.643 6.6071-0.3571-7.8571z"
+    />
+    <path
+        id="path3611"
+        sodipodi:nodetypes="ccccc"
+        style="fill:#28170b"
+        d="m86.601 863.59 4.8737 1.0408c-0.7331-19.409-1.5986-35.748 6.2806-52.448-3.7659 0.95895-8.3281-0.78899-11.816-4.1594-4.3082 12.629-3.7043 36.506 0.662 55.566z"
+    />
+    <path
+        id="path3605"
+        sodipodi:nodetypes="cccccccccc"
+        style="stroke:#800000;stroke-width:3;fill:#800000"
+        d="m92.547 864.63c-27.541-3.453-54.67-2.732-67.5 8.9286-24.798 24.176-21.092 46.625-15 68.929 11.971 36.99 34.684 70.636 64.643 92.5 14.696 12.532 29.712 18.011 45.357 9.6428 14.275-9.9287 23.129-7.9322 32.857-7.8571 20.492 3.4652 31.567-6.3453 41.786-20 35.682-53.823 23.778-98.081 19.643-122.14-7.7203-35.331-25.424-57.581-60.714-56.786-25.406 1.8598-45.182 11.603-61.071 26.786z"
+    />
+    <path
+        id="path3613"
+        sodipodi:rx="6.1871843"
+        sodipodi:ry="2.3359778"
+        style="stroke:#28170b;stroke-width:.81372;fill:#502d16"
+        sodipodi:type="arc"
+        d="m769.48 638.52c0 1.2901-2.7701 2.336-6.1872 2.336s-6.1872-1.0459-6.1872-2.336 2.7701-2.336 6.1872-2.336 6.1872 1.0458 6.1872 2.336z"
+        transform="matrix(.96844 .25921 -.069097 1.541 -602.82 -372.7)"
+        sodipodi:cy="638.51532"
+        sodipodi:cx="763.29651"
+    />
+    <path
+        id="path3625"
+        sodipodi:nodetypes="cccccccccc"
+        style="fill:url(#radialGradient3633)"
+        d="m92.547 864.63c-27.541-3.453-53.331-2.107-67.5 8.9286-24.798 24.176-21.092 46.625-15 68.929 11.971 36.99 34.684 70.636 64.643 92.5 14.696 12.532 29.712 18.011 45.357 9.6428 14.275-9.9287 23.129-7.9322 32.857-7.8571 20.492 3.4652 31.567-6.3453 41.786-20 35.682-53.823 23.778-98.081 19.643-122.14-7.7203-35.331-25.424-57.581-60.714-56.786-25.406 1.8598-45.182 11.603-61.071 26.786z"
+    />
+    <path
+        id="path3635"
+        sodipodi:rx="6.1871843"
+        sodipodi:ry="2.3359778"
+        style="stroke:#28170b;stroke-width:.81372;fill:url(#radialGradient3643)"
+        sodipodi:type="arc"
+        d="m769.48 638.52c0 1.2901-2.7701 2.336-6.1872 2.336s-6.1872-1.0459-6.1872-2.336 2.7701-2.336 6.1872-2.336 6.1872 1.0458 6.1872 2.336z"
+        transform="matrix(.96844 .25921 -.069097 1.541 -602.82 -372.7)"
+        sodipodi:cy="638.51532"
+        sodipodi:cx="763.29651"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Apple</dc:title
+        >
+        <dc:date
+          >2012-03-17T18:30:00</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/168884/apple-by-ana-paula</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >Ana Paula</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >Apple</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

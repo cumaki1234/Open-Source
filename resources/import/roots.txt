@@ -1,0 +1,57 @@
+source	Vegetable Root Depth - To Gauge Watering Depth	http://celosangeles.ucanr.edu/files/121762.pdf	
+source	Vegetable Crop xx Rotations	http://extension.udel.edu/kentagextension/tag/crop-rotation/
+source	Sustainable Agriculture and Research	http://www.sare.org/Learning-Center/Books/Managing-Cover-Crops-Profitably-3rd-Edition/Text-Version/Nonlegume-Cover-Crops/Buckwheat
+ref	name	root
+1	Artichoke thistle	122
+1	Asparagus	15-20
+1	Basil	20-30
+1	Bean	61-91
+1	Beetroot	46-91
+1	Bell pepper	91-122
+1	Bok choy	30-91
+1	Broadbean	91-122
+1	Broccoli	46-91
+1	Brussels sprouts	46-91
+1	Cabbage	30
+1	Carrot	46-61
+1	Cauliflower	46-91
+1	Celery	46-91
+1	Chard	91-122
+1	Chili	46-122
+1	Chinese cabbage	46-91
+1	Chive	8-15
+1	Collards	46-61
+1	Coriander	20-46
+1	Corn salad	8-15
+1	Corn	46-91
+1	Cucumber	91-122
+1	Eggplant	91-122
+1	Fennel	30-46
+1	Garlic	30-46
+1	Jerusalem artichoke	30-46
+1	Kale	30-46
+1	Kohlrabi	30-46
+1	Leek	46-91
+1	Lettuce	46
+1	Mint	30-46
+1	Mustard greens	46
+1	New Zealand spinach	25-61
+1	Onion	20-30
+1	Oregano	15-46
+1	Parsley	20-30
+1	Parsnip	122
+1	Pea	91-122
+1	Potato	46-61
+1	Radish	13-20
+1	Rocket	30-46
+1	Rutabaga	61-91
+1	Sage	61-91
+1	Spinach	30-46
+1	Strawberry	30-46
+1	Summer savory	20-30
+1	Tarragon	15-25
+1	Thyme	15-25
+1	Tomato	46-122
+1	Turnip	46-61
+2	Comfrey	240-300
+3	Buckwheat	0-25

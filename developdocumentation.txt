@@ -1,0 +1,27 @@
+Software documentation
+1. Requirements - Statements that identify attributes, capabilities, characteristics, or qualities of a system.
+
+Kitchen garden aid is a planning tool for kitchen garden growers. The progam assumes that the grower know and to some extent practice "Square foot gardening". Most potherbs are annual so each season there is always a stage were you plan your garden. There are rules to consider when doing this. Companion planting and crop rotation is two important rules.
+The program will aid the grower with planning with this grafical tool. There will be a list of plants where the user can pick and plot in a garden grid. This way the user can draw his garden. Beyond this the tool will show if user has planted right or wrong companion plants together and rotating the crops correct. In order to create a usable software the progam must:
+a. Be easy and intuitive since it will be used a short period of time once a year.
+b. Have no settings and no install procedure. User should be able to get going right away.
+c. Be able to save his planning each year so that crop rotation rules can be implemented. The saved file must always be backward compatible.
+d. Have a sorted list of plants to easily choose from.
+e. Have a printing function where the user can print out his planning.
+f. In a pedagogical way, show where the user should and should not plant his crops.
+g. Be translated to users native language.
+
+
+
+
+2. Architecture/Design - Overview of software. Includes relations to an environment and construction principles to be used in design of software components.
+These are the major routins:
+a. The garden - this is the core where plants are added and rules will be calculated
+b. Rules - rules that apply to plants
+c. Translation - a routin for translating
+d. Plantlist - a list of plants stored in the system
+e. Gui - a gui separated from the system
+
+3. Technical - Documentation of code, algorithms, interfaces, and APIs.
+4. End User - Manuals for the end-user, system administrators and support staff.
+5. Marketing - How to market the product and analysis of the market demand.

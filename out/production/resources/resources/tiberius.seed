@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seed-list xmlns="org:sourceforge:kga:seedList" version="1">
+    <inventory>
+        <seed plantId="69" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="42" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="44" variety="Kristin" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="48" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="34" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="31" variety="cret" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Levantica" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="30" variety="California Wonder" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="59" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="2" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="105" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="108" variety="Long White Bush 2" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="20" variety="Carentan 3" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="13" variety="Long island" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="11" variety="Igloo" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="45" variety="Bordi" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="45" variety="Kelvedon Wonder" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="63" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="23" variety="White lisbon" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="88" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="151" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="137" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="43" variety="Matador" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="34" variety="Cherry belle" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="6" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="20" variety="Bulgararse reuzen" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="51" variety="Golden bantam" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="28" variety="Flakker" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="108" variety="Black beauty" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="24" variety="Cylindra" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="35" variety="Great lakes" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="53" variety="De cayenne" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="69" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="85" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="7" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Margarete" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Macris" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="8" variety="Cornison de Paris" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="73" variety="Dublu" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Nalba" variety="Dublu melanj" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Iarba ciutei" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="72" validFrom="20150101" validTo="20160225"/>
+        <seed plantId="49" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Zorele" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Thunbergia" validFrom="20150101" validTo="20160225"/>
+        <seed plant="Panselute" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="42" variety="" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="24" variety="Detroit 2" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="84" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="89" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="129" variety="Clemson spineless" quantity="2.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="17" variety="Langedijker dauer" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="72" quantity="2.0 plic" validFrom="20160309" validTo="20170326"/>
+        <seed plantId="73" variety="Simplu menaj" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="27" variety="Sugar baby" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="34" variety="Alba - icicle" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="33" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plant="Solanum sisymbrifolium" variety=" de Balbis" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="8" variety="Lemon" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="37" validFrom="20160225" validTo="20170326"/>
+        <seed plant="Alac" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="30" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="15" variety="Wener white" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="15" variety="Gigant" quantity="1.0 plic" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="32" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="44" variety="Piatra" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="34" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="44" variety="negre" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="109" validFrom="20160225" validTo="20170326"/>
+        <seed plant="Phisalys" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="4" variety="neagra" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="4" variety="maro" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="4" variety="cu picatele mov" validFrom="20160225" validTo="20170326"/>
+        <seed plantId="8" variety="Cornison de Paris" validFrom="20160305" validTo="20170326"/>
+        <seed plant="Garofiţe chinezeşti" validFrom="20160305" validTo="20170326"/>
+        <seed plant="Margarete" validFrom="20160305" validTo="20170326"/>
+        <seed plant="Zorele" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="48" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="20" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="43" variety="Matador" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="63" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="44" variety="Rio Grande" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="35" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="44" variety="San Marzano" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="44" variety="Semitimpurie" validFrom="20160305" validTo="20170326"/>
+        <seed plant="Echinaceea" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="180" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="174" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="73" variety="albe" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="25" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="32" variety="cu seminte fara coji" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="22" variety="arpagic" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="51" variety="mov" validFrom="20160305" validTo="20170326"/>
+        <seed plant="Anghinare" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="51" variety="zaharat" validFrom="20160305" validTo="20170326"/>
+        <seed plantId="108" variety="stea" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="108" variety="decorativ" validFrom="20160309" validTo="20170326"/>
+        <seed plantId="45" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="53" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="13" quantity="1.0 plic" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="174" validFrom="20160305" validTo="20160307"/>
+        <seed plant="Regina nopţii" quantity="1.0 plic" validFrom="20160307" validTo="20170326"/>
+        <seed plant="Zorele" validFrom="20160305" validTo="20160307"/>
+        <seed plant="Ochiul boului" quantity="1.0 plic" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="6" quantity="1.0 plic" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="105" quantity="2.0 plic" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="105" variety="Indian Cress" quantity="1.0 plic" validFrom="20160309" validTo="20170326"/>
+        <seed plantId="108" variety="decorativ" validFrom="20160307" validTo="20160309"/>
+        <seed plantId="105" variety="Tropaeolum minus" quantity="2.0 plic" validFrom="20160309" validTo="20170326"/>
+        <seed plantId="72" quantity="1.0 plic" validFrom="20160225" validTo="20160309"/>
+        <seed plantId="138" quantity="1.0 plic" validFrom="20160309" validTo="20170326"/>
+        <seed plantId="69" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="103" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="173" variety="Drops" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="11" variety="Moldoviţa F1" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plant="Verbina" variety="Verbena hybrida" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="31" variety="Creţ; Moskrul 2" quantity="1.0 plic" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="85" validFrom="20160313" validTo="20170326"/>
+        <seed plantId="2" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="2" validFrom="20170326"/>
+        <seed plantId="17" variety="Langedijker dauer" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Alac" validFrom="20170326"/>
+        <seed plantId="159" variety="negru - argus" validFrom="20170326"/>
+        <seed plantId="35" validFrom="20170326"/>
+        <seed plantId="105" variety="Indian Cress" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="105" variety="Tropaeolum minus" quantity="2.0 plic" validFrom="20170326"/>
+        <seed plant="Zorele" validFrom="20170326"/>
+        <seed plant="Ochiul boului" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="73" variety="albe" validFrom="20170326"/>
+        <seed plantId="73" variety="Simplu menaj" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Verbina" variety="Verbena hybrida" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Margarete" validFrom="20170326"/>
+        <seed plantId="105" quantity="2.0 plic" validFrom="20170326"/>
+        <seed plant="Esoltia" validFrom="20170326"/>
+        <seed plant="Thunbergia" validFrom="20170326"/>
+        <seed plant="Caldarusa" validFrom="20170326"/>
+        <seed plantId="174" validFrom="20170326"/>
+        <seed plantId="21" validFrom="20170326"/>
+        <seed plant="Pufuleti" validFrom="20170326"/>
+        <seed plant="Macris" validFrom="20170326"/>
+        <seed plantId="152" validFrom="20170326"/>
+        <seed plantId="69" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="48" quantity="2.0 plic" validFrom="20170326"/>
+        <seed plantId="72" quantity="2.0 plic" validFrom="20170326"/>
+        <seed plantId="89" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Usturoi de frunze" validFrom="20170326"/>
+        <seed plantId="129" variety="Clemson spineless" quantity="2.0 plic" validFrom="20170326"/>
+        <seed plantId="6" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="31" variety="Creţ; Moskrul 2" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="138" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Castravete amar" validFrom="20170326"/>
+        <seed plantId="4" variety="cu picatele mov" validFrom="20170326"/>
+        <seed plantId="4" variety="maro" validFrom="20170326"/>
+        <seed plant="Solanum sisymbrifolium" variety=" de Balbis" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="13" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="108" validFrom="20170326"/>
+        <seed plantId="27" variety="Sugar baby" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="8" variety="Cornison de Paris" validFrom="20170326"/>
+        <seed plantId="173" variety="Drops" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="33" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plantId="15" variety="Wener white" quantity="1.0 plic" validFrom="20170326"/>
+        <seed plant="Tartacute" validFrom="20170326"/>
+        <seed plantId="32" validFrom="20170326"/>
+        <seed plantId="51" variety="mov" validFrom="20170326"/>
+        <seed plantId="44" validFrom="20170326"/>
+    </inventory>
+    <shopping>
+        <seed plantId="179" validFrom="20160225" validTo="20160306"/>
+        <seed plantId="135" validFrom="20160225" validTo="20160306"/>
+        <seed plantId="30" quantity="1.0 buc" validFrom="20160225" validTo="20160306"/>
+        <seed plantId="40" validFrom="20160305" validTo="20160306"/>
+        <seed plantId="66" validFrom="20160305" validTo="20160306"/>
+        <seed plantId="160" validFrom="20160305" validTo="20160306"/>
+        <seed plantId="11" validFrom="20160307" validTo="20160313"/>
+        <seed plantId="85" validFrom="20160307" validTo="20160313"/>
+        <seed plantId="108" validFrom="20160307" validTo="20170326"/>
+        <seed plant="Iarba ciutei" validFrom="20160307" validTo="20170326"/>
+        <seed plant="Macris" validFrom="20160307" validTo="20170326"/>
+        <seed plant="Nalba" validFrom="20160307" validTo="20170326"/>
+        <seed plantId="63" validFrom="20170326"/>
+        <seed plantId="45" validFrom="20170326"/>
+        <seed plantId="20" validFrom="20170326"/>
+        <seed plantId="34" validFrom="20170326"/>
+        <seed plantId="24" validFrom="20170326"/>
+        <seed plantId="43" validFrom="20170326"/>
+    </shopping>
+</seed-list>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<garden xmlns="org:sourceforge:kga:garden" version="2">
+    <year value="2009">
+        <rectangle x="0" y="-1" w="11" h="1" species="116"/>
+        <rectangle x="0" y="0" w="1" h="10" species="116"/>
+        <cell x="1" y="0" species="43"/>
+        <cell x="2" y="0" species="1"/>
+        <cell x="3" y="0" species="43"/>
+        <cell x="4" y="0" species="1"/>
+        <rectangle x="5" y="0" w="1" h="10" species="116"/>
+        <cell x="6" y="0" species="32"/>
+        <cell x="7" y="0" species="51;4"/>
+        <cell x="8" y="0" species="32"/>
+        <cell x="9" y="0" species="51;4"/>
+        <rectangle x="10" y="0" w="1" h="10" species="116"/>
+        <cell x="1" y="1" species="1"/>
+        <cell x="2" y="1" species="43"/>
+        <cell x="3" y="1" species="1"/>
+        <cell x="4" y="1" species="43"/>
+        <cell x="6" y="1" species="51;4"/>
+        <cell x="7" y="1" species="32"/>
+        <cell x="8" y="1" species="51;4"/>
+        <cell x="9" y="1" species="32"/>
+        <cell x="1" y="2" species="43"/>
+        <cell x="2" y="2" species="1"/>
+        <cell x="3" y="2" species="43"/>
+        <cell x="4" y="2" species="1"/>
+        <cell x="6" y="2" species="32"/>
+        <cell x="7" y="2" species="51;4"/>
+        <cell x="8" y="2" species="32"/>
+        <cell x="9" y="2" species="51;4"/>
+        <cell x="1" y="3" species="1"/>
+        <cell x="2" y="3" species="43"/>
+        <cell x="3" y="3" species="1"/>
+        <cell x="4" y="3" species="43"/>
+        <cell x="6" y="3" species="51;4"/>
+        <cell x="7" y="3" species="32"/>
+        <cell x="8" y="3" species="51;4"/>
+        <cell x="9" y="3" species="32"/>
+        <rectangle x="1" y="4" w="4" h="1" species="116"/>
+        <rectangle x="6" y="4" w="4" h="1" species="116"/>
+        <rectangle x="1" y="5" w="2" h="2" species="18"/>
+        <rectangle x="3" y="5" w="2" h="2" species="12"/>
+        <rectangle x="6" y="5" w="4" h="4" species="66;40"/>
+        <rectangle x="1" y="7" w="2" h="2" species="12"/>
+        <rectangle x="3" y="7" w="2" h="2" species="19"/>
+        <rectangle x="1" y="9" w="4" h="1" species="116"/>
+        <rectangle x="6" y="9" w="4" h="1" species="116"/>
+    </year>
+    <year value="2010">
+        <rectangle x="0" y="-1" w="11" h="1" species="116"/>
+        <rectangle x="0" y="0" w="1" h="10" species="116"/>
+        <rectangle x="1" y="0" w="4" h="4" species="28;6"/>
+        <rectangle x="5" y="0" w="1" h="10" species="116"/>
+        <cell x="6" y="0" species="28"/>
+        <cell x="7" y="0" species="22"/>
+        <cell x="8" y="0" species="28"/>
+        <cell x="9" y="0" species="22"/>
+        <rectangle x="10" y="0" w="1" h="10" species="116"/>
+        <cell x="6" y="1" species="22"/>
+        <cell x="7" y="1" species="28"/>
+        <cell x="8" y="1" species="22"/>
+        <cell x="9" y="1" species="28"/>
+        <cell x="6" y="2" species="28"/>
+        <cell x="7" y="2" species="22"/>
+        <cell x="8" y="2" species="28"/>
+        <cell x="9" y="2" species="22"/>
+        <cell x="6" y="3" species="22"/>
+        <cell x="7" y="3" species="28"/>
+        <cell x="8" y="3" species="22"/>
+        <cell x="9" y="3" species="28"/>
+        <rectangle x="1" y="4" w="4" h="1" species="116"/>
+        <rectangle x="6" y="4" w="4" h="1" species="116"/>
+        <rectangle x="1" y="5" w="2" h="2" species="17"/>
+        <rectangle x="3" y="5" w="2" h="2" species="12"/>
+        <rectangle x="6" y="5" w="4" h="4" species="61;40"/>
+        <rectangle x="1" y="7" w="2" h="2" species="11"/>
+        <rectangle x="3" y="7" w="2" h="2" species="13"/>
+        <rectangle x="1" y="9" w="4" h="1" species="116"/>
+        <rectangle x="6" y="9" w="4" h="1" species="116"/>
+    </year>
+</garden>

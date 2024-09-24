@@ -1,0 +1,2 @@
+java --module-path /usr/share/openjfx/lib --add-modules=javafx.controls,javafx.web --add-opens javafx.controls/javafx.scene.control.cell=ALL-UNNAMED --add-exports=javafx.graphics/com.sun.javafx.iio=ALL-UNNAMED --add-exports=javafx.graphics/com.sun.javafx.iio.common=ALL-UNNAMED --add-exports=javafx.graphics/com.sun.javafx.scene=ALL-UNNAMED --add-exports=javafx.graphics/com.sun.glass.ui=ALL-UNNAMED -jar KitchenGardenAid-*.jar
+ 

@@ -1,0 +1,15 @@
+source	Unknown
+name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info
+Cucumber		like	Dill		improve	pest_resistance
+#conflict: Rutabaga		dislike	Potato			
+#conflict: Turnip		dislike	Potato			
+#conflict: Beetroot		dislike	Bean			
+#conflict: Chard		dislike	Bean			
+Strawberry		like	Marigold			
+#conflict: Tomato		like		Brassica oleracea		
+Tomato		like	Soybean			
+Tomato		like	Broadbean			
+Tomato		like	Borage		improve	flavor
+#conflict: Tomato		dislike	Chive			
+Tomato		dislike	Sunflower			
+#conflict:	Beta vulgaris	dislike	Bean			

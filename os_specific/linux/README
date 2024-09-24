@@ -1,0 +1,3 @@
+Prior to running kitchen garden aid run 'install_dependencies.sh' This will install java, and javafx.
+
+After initial installation, run kitchenGardenAid.sh to start kitchengardenaid

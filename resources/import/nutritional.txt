@@ -1,0 +1,15 @@
+source	Vegetable Crop Rotation	http://www.harvesttotable.com/2010/04/vegetable_crop_rotation/
+source	Sustainable Agriculture and Research	http://www.sare.org/Learning-Center/Books/Managing-Cover-Crops-Profitably-3rd-Edition/Text-Version/Nonlegume-Cover-Crops/Buckwheat
+source	Coe's Comfrey	http://www.coescomfrey.com/grow.html
+ref	name	scientific	nutritional
+1		Amaryllidaceae	low
+1		Brassicaceae	high
+1		Asteraceae	high
+1		Amaranthaceae	high
+1		Poaceae	low
+1		Fabaceae	soil_improver
+1		Solanaceae	high
+1		Cucurbitaceae	high
+1		Apiaceae	low
+2	Buckwheat		soil_improver
+3	Comfrey		soil_improver

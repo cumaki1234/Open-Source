@@ -1,0 +1,17 @@
+Prior to running kitchen garden aid:
+1) open a terminal window, cd to the directory where you downloaded kitchen garden aid
+2) type 'chmod +x setup.sh' this will make the setup script executable
+3) run 'setup.sh' This will approve the bundled version of java to run.
+4) run kitchenGardenAid.sh, you will get an error, close it (do not hit 'move to trash')
+5) open System Preferences, security & privacy.
+6) Under 'allow apps downloaded from' there will be a message that says '"java" was blocked from use because it is not from an identified developer".
+7) Click 'Allow Anyway'
+
+After you have run setup.sh, you can run kitchen garden aid by opening a terminal window and typing './kitchenGardenAid.sh'
+
+
+
+Most of this setup process  is to work past a MacOSX limitation that is not very friendly to open source. MacOSx will by default not run any unsigned apps. 
+Kitchen Garden Aid is not signed because it costs $100 / year to be able to sign the app.
+To the best knowledge of the develoepr, it contains no malware. If you don't trust me, you can download the source code yourself, inspect it, and build your own copy of this installer.
+Apologies I haven't managed to make it easier to run on a mac... If anyone has brilliant low effort ideas that don't cost me money every year, please share.

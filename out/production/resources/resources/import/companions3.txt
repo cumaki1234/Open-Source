@@ -1,0 +1,49 @@
+source	Sustainable Gardening Australia - Companion Planting	http://www.sgaonline.org.au/companion-planting/					
+source	Carrots love tomato - book						
+source	Companion Planting Tips for Organic Garden Pest Control	https://gardenvarietynews.wordpress.com/2014/01/30/companion-planting-tips-for-organic-garden-pest-control/					
+source	Garden Bugs	http://www.aces.edu/pubs/docs/A/ANR-1045/ANR-1045.pdf					
+source	Savor The Rhubarb	http://www.savor-the-rhubarb.com/rhubarb-companions.html
+tag	Beans	Bean	Broadbean	Pea	Soybean
+tag	Beans except soybean	Bean	Broadbean	Pea
+ref	page	name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info
+1		Nasturtiums		help	Apple		repel	Codling Moth
+1		Chives		help	Apple			
+1		Apple		dislike	Potato			
+1		Basil		help	Apricot		repel	damaging Insects
+1		Tansy		help	Apricot		repel	damaging Insects
+1		Asparagus		help	Apricot			
+1		Apricot		help	Asparagus			
+1		Basil		help	Asparagus		improve	flavor
+1		Chives		help	Asparagus			
+1		Comfrey		help	Asparagus			
+1		Lovage		help	Asparagus			
+1		Marjoram		help	Asparagus			
+1		Parsley		help	Asparagus		improve	flavor
+1		Tomato		help	Asparagus			
+1		Onion		inhibit	Asparagus			
+1		Garlic		inhibit	Asparagus			
+1		Balm		help	Tomato		attract	Bee
+1		Balm		help	Tomato		improve	flavor, growth
+1		Basil		help	Tomato		repel	Fly, Mosquitoes
+1		Bean		help	Eggplant			
+1		Spinach		help	Eggplant			
+1		Brassicas		dislike eachother	Strawberry			
+2	34	Turnip		help eachother	Pea			
+2	34	Rutabaga		help eachother	Pea			
+2	34	Turnip		dislike	Hedge Mustard 			
+2	34	Rutabaga		dislike	Hedge Mustard 			
+2	34	Turnip		dislike	Knotweed			
+2	34	Rutabaga		dislike	Knotweed			
+3			Fabaceae	help	Eggplant		repel	Colorado Bug
+4	8	Marigold		help	Asparagus		repel	Asparagus Beetle
+4	8	Chili		help	Brassicas		repel	Cabbage Loopers, Cabbage Worm
+4	8	Beans		help	Potato		repel	Colorado Bug
+4	9	Potato		help	Beans		repel	Mexican Bean Beetle
+4	9	Soybean		help	Beans except soybean		trap	Mexican Bean Beetle
+4	10	Nasturtiums		help	Squash		repel	Squash Bug
+4	10	Marigold		help	Squash		repel	Squash Bug
+#conflict: 5	10	Dill		help	Tomato		trap	Tomato Hornworm
+5			Allium	help	Rhubarb		repel	Aphid
+5		Bell pepper		help	Rhubarb		repel	Aphid
+5		Rhubarb		help	Columbine		repel	Red Spider mite
+5		Rhubarb		help	Bean		repel	Black Fly

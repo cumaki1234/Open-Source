@@ -1,0 +1,752 @@
+source	Golden Harvest Organics	http://www.ghorganics.com/page2.html													
+tag	Mustard plants	White mustard	Mustard greens	Black mustard												
+tag	Beans family	Bean	Broadbean	Pea	Soybean											
+tag	Fruit trees	Apple														
+tag	Aromatic herbs	Dill	Basil	Thyme	Rosemary	Summer savory	Catnip	Sage	Hyssop	Lovage	Mint	Coriander	Anise	Tarragon	Lemon balm
+name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info										
+#ALFALFA: Perennial that roots deeply. Fixes the soil with nitrogen, accumulates iron, magnesium, phosphorous and potassium. Withstands droughts with it's long taproot and can improve just about any soil! Alfalfa has the ability to break up hard clay soil and can even send its' roots through rocks! Now that is a tenacious plant! Alfalfa is practically pest and disease free. It needs only natural rainfall to survive.																
+#AMARANTH: A tropical annual that needs hot conditions to flourish. Good with sweet corn, it's leaves provide shade giving the corm a rich, moist root run. Host to predatory ground Beetles. Eat the young leaves in salads.																
+#ANISE: Licorice flavored herb, good host for predatory wasps which prey on Aphids and it is also said to repel aphids. Deters pests from brassicas by camouflaging their odor. Improves the vigor of any plants growing near it. Used in ointments to protect against Bug stings and bites. Good to plant with coriander.																
+Anise		help	Brassicas		improve	pest_resistance										
+Anise		like	Coriander													
+#ARTEMISIAS: See Wormwood																
+#ASPARAGUS: Friends: Aster family flowers, dill ,coriander, carrots, tomato, parsley, basil, comfrey and marigolds. Avoid: Onions, garlic and potato.																
+Asparagus		like eachother		Asteraceae												
+Asparagus		like eachother	Dill													
+Asparagus		like eachother	Coriander													
+Asparagus		like eachother	Carrot													
+Asparagus		like eachother	Tomato													
+Asparagus		like eachother	Parsley													
+Asparagus		like eachother	Basil													
+Asparagus		like eachother	Comfrey													
+Asparagus		like eachother	Marigold													
+Asparagus		dislike eachother		Allium												
+Asparagus		dislike eachother	Potato													
+#BASIL: Plant with tomato to improve growth and flavor. Basil also does well with peppers, oregano, asparagus and petunias. Basil can be helpful in repelling thrips. It is said to repel Fly and Mosquitoes. Do not plant near rue or sage.																
+Basil		help	Tomato		improve	growth, flavor										
+Basil		like eachother		Capsicum annuum												
+Basil		like eachother	Oregano													
+Basil		like eachother	Asparagus													
+Basil		like eachother	Petunia													
+Basil		dislike	Rue													
+Basil		dislike	Sage													
+#BAY LEAF: A fresh leaf bay leaf in each storage container of beans or grains will deter weevils and moth. Sprinkle dried leaves with other deterrent herbs in garden as natural insecticide dust. A good combo: Bay leaves, cayenne pepper, tansy and peppermint. For ladyBug invasions try spreading bay leaves around in your house anywhere they are getting in and congregating. They should leave.																
+#BEANS: All bean enrich the soil with nitrogen fixed form the air, improving the conditions for whatever crop you plant after the beans are finished. In general they are good company for carrots, celery, chards, corn, eggplant, peas, potato, brassicas, Beets, radish, strawberry and cucumbers. Beans are great for heavy nitrogen users like corn and grain plants because the nitrogen used up by the corn and grains are replaced at the end of the season when the bean plants die back. French Haricot beans, sweet corn and melons are a good combo. Summer savory deters Bean Beetle and improves growth and flavor. Keep beans away from the alliums. Growing tip: Do not allow beans to mature on the plant, or it will stop producing, and do not pick beans or cultivate when they are wet, or it will spread viral diseases. 																
+Bean		help	Carrot													
+Bean		help	Celery													
+Bean		help	Chard													
+Bean		help	Corn													
+Bean		help	Eggplant													
+Bean		help	Pea													
+Bean		help	Potato													
+Bean		help	Brassicas													
+Bean		help		Beta vulgaris												
+Bean		help	Radish													
+Bean		help	Strawberry													
+Bean		help	Cucumber													
+Bean		help	Grain													
+Summer savory		help	Bean		repel	Bean Beetle										
+Summer savory		help	Bean		improve	growth, flavor										
+Bean		dislike		Allium												
+#Bee BALM (Oswego, Monarda): Plant with tomato to improve growth and flavor. Great for attracting beneficials and bees of course. Pretty perennial that tends to get powdery mildew.																
+Bee balm		help	Tomato		improve	growth, flavor										
+#BeeT: Good for adding minerals to the soil. The leaves are composed of 25% magnesium making them a valuable addition to the compost pile if you don't care to eat them. Beets are also beneficial to beans with the exception of runner beans. Runner or pole beans and beets stunt each other's growth. Companions for beets are lettuce, onions and brassicas. Beets and kohlrabi grow perfectly together. Beets are helped by garlic and mints. Garlic improves growth and flavor. Rather than planting invasive mints around beets use your mint clippings as a mulch.
+Beetroot		inhibit eachother	Pole bean													
+Beetroot		like	Lettuce													
+Beetroot		like	Onions													
+Beetroot		like	Brassicas													
+Beetroot		like eachother	Kohlrabi													
+Garlic		help	Beetroot													
+Mint		help	Beetroot													
+#BORAGE: Companion plant for tomato, squash, strawberries and most plants. Deters Tomato Hornworm and Cabbage Worm. One of the best Bee and wasp attracting plants. Adds trace minerals to the soil and a good addition the compost pile. The leaves contain vitamin C and are rich in calcium, potassium and mineral salts. Borage may benefit any plant it is growing next to via increasing resistance to pests and disease. It also makes a nice mulch for most plants. Borage and strawberries help each other and strawberry farmers always set a few plants in their beds to enhance the fruits flavor and yield. Plant near tomato to improve growth and disease resistance. After you have planned this annual once it will self seed. Borage flowers are edible.																
+Borage		help	Tomato													
+Borage		help	Squash													
+Borage		help	Strawberry		improve	flavor								
+Borage		help	Strawberry		improve	pest resistance								
+Borage		like	Strawberry													
+Borage		help	Tomato		repel	Tomato Hornworm										
+Borage		help	Brassicas		repel	Cabbage Worm										
+#BROCCOLI: Companions for broccoli are: Basil, Bush Beans, Cucumber, Dill, Garlic, Hyssop, Lettuce, Marigold, Mint, Nasturtiums, Onion, Potato, Radish, Rosemary, Sage, Thyme and Tomato. Celery, onions and potato improve broccolis' flavor when planted near it. Broccoli loves plenty of calcium. Pairing it with plants that need little calcium is a good combination such as nasturtiums and Beets as this frees up the calcium in the soil for the broccoli. Put the nasturtiums right under the broccoli plants. Herbs such as rosemary, dill and sage help repel pests with their distinct aromas. Foes: Grapes, strawberries, mustards and rue.																
+Broccoli		like	Basil													
+Broccoli		like	Bush Beans													
+Broccoli		like	Cucumber													
+Broccoli		like	Dill													
+Broccoli		like	Garlic													
+Broccoli		like	Hyssop													
+Broccoli		like	Lettuce													
+Broccoli		like	Marigold													
+Broccoli		like	Mint													
+Broccoli		like	Nasturtiums													
+Broccoli		like	Onion													
+Broccoli		like	Potato													
+Broccoli		like	Radish													
+Broccoli		like	Rosemary													
+Broccoli		like	Sage													
+Broccoli		like	Thyme													
+#conflict: Broccoli		like	Tomato													
+Celery		help	Broccoli													
+	Allium	help	Broccoli													
+Potato		help	Broccoli		improve	flavor										
+Broccoli		help	Nasturtiums													
+Broccoli		help		Beta vulgaris												
+Rosemary		help	Broccoli													
+Dill		help	Broccoli		improve	pest_resistance										
+Sage		help	Broccoli		improve	pest_resistance										
+Broccoli		dislike eachother	Grape													
+Broccoli		dislike eachother	Strawberry													
+Broccoli		dislike eachother	Mustard plants													
+Broccoli		dislike eachother	Rue													
+#BUCKWHEAT: (Member of the family Polygonaceae) Accumulates calcium and can be grown as an excellent cover crop aka green manure. Buckwheat's shallow white blossoms attract beneficial Insects that control or parasitize Aphid, mites and other pests. The beneficials it attracts include the following: hover Fly (Syrphidae), predatory wasps, minute pirate Bug, insidious flower bug, tachnid fly and lady Beetle. Flowering may start within three weeks of planting and continue for up to 10 weeks. Buckwheat will take up phosphorus and some minor nutrients that are otherwise unavailable to plants. These nutrients are released as the residue of the buckwheat breaks down and are then available for later crops. The fine roots makes topsoil loose and friable with only minimal tillage.																
+#CABBAGE: Celery, dill, onions and potato are good companion plants. Celery improves growth and health. Clover interplanted with cabbage has Been shown to reduce the Cabbage Aphid and Cabbage Worm populations by interfering with the colonization of the pests and increasing the number of predatory ground Beetle. Plant Chamomile with cabbage as it Improves growth and flavor. Cabbage does not get along with strawberries, tomato, peppers, eggplants, rue, grapes, lettuce and pole beans.																
+Celery		help	Cabbage		improve	growth, health										
+Cabbage		like	Dill													
+Cabbage		like		Allium												
+Cabbage		like	Potato													
+Clover		help	Cabbage		repel	Cabbage Aphid, Cabbage Worm										
+Chamomile		help	Cabbage		improve	growth, flavor										
+Cabbage		dislike	Strawberry													
+Cabbage		dislike	Tomato													
+Cabbage		dislike	Bell pepper													
+Cabbage		dislike	Eggplant													
+Cabbage		dislike	Rue													
+Cabbage		dislike	Grape													
+Cabbage		dislike	Lettuce													
+Cabbage		dislike	Pole bean													
+#CARAWAY: Good for loosening compacted soil with it's deep roots so it's also compatible next to shallow rooted crops. Plant it with strawberries. Caraway can be tricky to establish. The flowers attract a number of beneficial Insects especially the tiny parasitic wasps. Keep it away from dill and fennel.																
+Caraway		like eachother	Strawberry													
+Caraway		dislike eachother	Dill													
+Caraway		dislike eachother	Fennel													
+#CARROTS: Their pals are chives, leaf lettuce, leeks, marigolds, onions, parsley, radish, salisfy and tomato. Plant dill, fennel, kohlrabi and parsnips away from carrots. Sow leeks and carrots in the same row for protection against Carrot Fly. Then harvest the carrots and leave the leeks to mature for later. For onions and carrots plant them in separate rows next to each other to repel carrots fly. Flax produces an oil that may protect root vegetables like carrots from some pests. One drawback with tomato and carrots: tomato plants can stunt the growth of your carrots but the carrots will still be of good flavor.
+Carrot		like	Chive													
+Carrot		like	Lettuce													
+Carrot		like	Leek													
+Carrot		like	Marigold													
+Carrot		like	Parsley													
+Carrot		like	Radish													
+Carrot		like	Salisfy													
+Carrot		like	Tomato													
+Carrot		dislike	Dill													
+Carrot		dislike	Fennel													
+Carrot		dislike	Kohlrabi													
+Carrot		dislike	Parsnip													
+	Allium	help	Carrot		repel	Carrot Fly										
+Flax		help	Carrot		improve	pest_resistance										
+#CATNIP: Deters flea Beetle, Aphid, Japanese Beetle, Squash Bug, ants and weevils. Fresh catnip steeped in water and sprinkled on plants will drive away flea beetle.																
+Catnip		help	Squash		repel	Squash Bug										
+#CELERY: Companions: Bean, cabbage family, leek, onion, spinach and tomato. Flowers for celery: cosmos, daisies and snapdragons. Foes: Corn, Irish potato and aster flowers. Carrots can be infected with Aster Yellow disease from asters. Grow celery in alternate rows with leeks. The cabbage White Butterfly is repelled by the scent of celery so is a benefit to all members of the cabbage family while also improving health and flavor.																
+Celery		like	Bean													
+Celery		help		Brassica	improve	health, flavor										
+Celery		help		Brassica	repel	Cabbage Butterfly										
+Celery		like	Leek													
+Celery		like	Onion													
+Celery		like	Spinach													
+Celery		like	Tomato													
+Celery		like	Cosmo													
+Celery		like	Daisy													
+Celery		like	Snapdragon													
+Celery		dislike	Corn													
+Celery		dislike	Potato													
+Celery		dislike		Asteraceae	attract	Aster Yellow										
+#CHAMOMILE, GERMAN: Annual. Improves flavor of cabbages, cucumbers and onions. Host to hoverflies and wasps. Accumulates calcium, potassium and sulfur, later returning them to the soil. Increases oil production from herbs. Leave some flowers unpicked and German chamomile will reseed itself. Roman chamomile is a low growing perennial that will tolerate almost any soil conditions. Both like full sun. Growing chamomile of any type is considered a tonic for anything you grow in the garden.																
+Chamomile		help	Cabbage		improve	flavor										
+Chamomile		help	Cucumber		improve	flavor										
+Chamomile		help	Onion		improve	flavor										
+#CHARDS: Companions: Bean, cabbage family, tomato, onion and roses. Don't overlook chard's value as an ornamental plant in flower beds or wherever you have room for it. Don't grow chard near cucurbits, melons, corn or herbs.																
+Chard		like	Bean													
+Chard		like		Brassica												
+Chard		like	Tomato													
+Chard		like	Onion													
+Chard		like	Rose													
+Chard		dislike		Cucurbitaceae												
+Chard		dislike	Corn													
+Chard		dislike	Aromatic herbs													
+#CHERVIL: Companion to radishes, lettuce and broccoli for improved growth and flavor. Keeps Aphid off lettuce. Said to deter slugs. Likes shade.																
+Chervil		help	Radish		improve	growth, flavor										
+Chervil		help	Lettuce		improve	growth, flavor										
+Chervil		help	Broccoli		improve	growth, flavor										
+Chervil		help	Lettuce		repel	Aphid										
+#CHIVES: Improves growth and flavor of carrots and tomato. A friend to apples, carrots, tomato, brassica (broccoli, cabbage, mustard, etc) and many others. Help to keep Aphid away from tomato, mums and sunflowers. Chives may drive away Japanese Beetle and Carrot Rust Fly. Planted among apple trees it helps prevent Scab and among roses it prevents black spot. You will need patience as it takes about 3 years for plantings of chives to prevent the 2 diseases. A tea of chives may be used on cucumbers and gooseberries to prevent downy and powdery mildews. Avoid planting near beans and peas. See chive tea on disease page.																
+Chive		help	Tomato		improve	growth, flavor										
+Chive		help	Carrot		improve	growth, flavor										
+Chive		help	Apple													
+Chive		help	Brassicas													
+Chive		help	Tomato		repel	Aphid										
+Chive		help	Mum		repel	Aphid										
+Chive		help	Sunflower		repel	Aphid										
+Chive		help	Carrot		repel	Carrot Fly										
+Chive		help	Apple		repel	Scab										
+Chive		help	Rose		repel	black spot										
+Chive		dislike eachother	Beans family													
+#CHRYSANTHEMUMS: C. coccineum kills root Nematodes. (the bad ones) It's flowers along with those of C. cineraruaefolium have Been used as botanical pesticides for centuries. (i.e. pyrethrum) White flowering chrysanthemums repel Japanese Beetle. To the right is a picture of the painted daisy from which pyrethrum is extracted.																
+#CLOVER: Long used as a green manure and plant companion and is especially good to plant under grapevines. Attracts many beneficials. Useful planted around apple trees to attract predators of the woolly Aphid. Clover interplanted with cabbage has Been shown to reduce the Cabbage Aphid and Cabbage Worm populations by interfering with the colonization of the pests and increasing the number of predator ground Beetle.																
+Clover		help	Grape													
+Clover		help	Apple		attract	Predators Of Woolly Aphid										
+Clover		help	Cabbage		repel	Cabbage Aphid, Cabbage Worm										
+#COLLARD GREENS: You can plant them with: Basil, Bean, Cucumber, Dill, Garlic, Hyssop, Lettuce, Marigold, Mint, Nasturtiums, Onion, Potato, Radish, Rosemary, Sage and Thyme. Keep them away from Grapes, Rue and Tansy.																
+Collard greens		like	Basil													
+Collard greens		like	Bean													
+Collard greens		like	Cucumber													
+Collard greens		like	Dill													
+Collard greens		like	Garlic													
+Collard greens		like	Hyssop													
+Collard greens		like	Lettuce													
+Collard greens		like	Marigold													
+Collard greens		like	Mint													
+Collard greens		like	Nasturtiums													
+Collard greens		like	Onion													
+Collard greens		like	Potato													
+Collard greens		like	Radish													
+Collard greens		like	Rosemary													
+Collard greens		like	Sage													
+Collard greens		like	Thyme													
+Collard greens		dislike	Grape													
+Collard greens		dislike	Rue													
+Collard greens		dislike	Tansy.													
+#COMFREY: This is one amazing plant. Accumulates calcium, phosphorous and potassium. Likes wet spots to grow in. Comfrey is beneficial to avocado and most other fruit trees. Traditional medicinal plant. Good trap crop for slugs. Excellent compost activator, foliage spray, nutrient miner. Comfrey is truly essential to all gardens. More on comfrey.																
+Comfrey		help	Fruit trees													
+#CORIANDER (Cilantro, Chinese Parsley etc.): The leaves of this plant are Cilantro. When left to flower and go to seed the dried tan seeds are Coriander, a familiar spice. It is a member of the carrot family. Repels harmful Insects such as Aphid, spider mites and Potato Beetle. Coriander growing between rows of carrots and cabbage will protect them from pests. A tea from this can be used as a spray for spider mites. Partners for coriander are anise, caraway, potato, radish, spinach and dill. Enemy: Coriander will Wilt if fennel is planted next to it and will prevent fennel from forming seed.																
+Coriander		help	Potato		repel	Colorado Bug										
+Coriander		help	Carrot		improve	pest_resistance										
+Coriander		help	Cabbage		improve	pest_resistance										
+Coriander		like eachother	Anise													
+Coriander		like eachother	Caraway													
+Coriander		like eachother	Potato													
+Coriander		like eachother	Radish													
+Coriander		like eachother	Spinach													
+Coriander		like eachother	Dill													
+Coriander		dislike eachother	Fennel													
+#CORN: Amaranth, beans, cucumber, white geranium, lamb's quarters, melons, morning glory, parsley, peanuts, peas, potato, pumpkin, soybeans, squash and sunflower. A classic example is to grow climbing beans up corn while inter-planting pumpkins. The corn provides a natural trellis for the beans, pumpkins smother the weeds and helps corn roots retain moisture. Corn is a heavy feeder and the beans fix nitrogen from air into the soil however the beans do not feed the corn while it is growing. When the bean plants die back they return nitrogen to the soil that was used up by the corn. A win-win situation. Another interesting helper for corn is the weed Pig's Thistle which raises nutrients from the subsoil to where the corn can reach them. Keep corn away from celery and tomato plants by at least 20 feet.																
+Corn		like eachother	Amaranth													
+Corn		like eachother	Bean													
+Corn		like eachother	White geranium													
+Corn		like eachother	Lamb's quarter													
+Corn		like eachother	Morning glory													
+Corn		like eachother	Parsley													
+Corn		like eachother	Peanut													
+Corn		like eachother	Pea													
+Corn		like eachother	Potato													
+Corn		like eachother	Soybean													
+Corn		like eachother		Cucurbitaceae												
+Corn		like eachother	Sunflower													
+Weed pig's thistle		help	Corn													
+Corn		dislike eachother	Celery													
+Corn		dislike eachother	Tomato													
+#COSTMARY: This 2-3 foot tall perennial of the chrysanthemum family helps to repel moth.																
+#CUCUMBERS: Cucumbers are great to plant with corn and beans. The three plants like the same conditions: warmth, rich soil and plenty of moisture. Let the cucumbers grow up and over your corn plants. Cukes also do well with peas, Beets, radishes and carrots. Radishes are a good deterrent against Cucumber Beetle. Dill planted with cucumbers helps by attracting beneficial predators. Nasturtiums improves growth and flavor. Keep sage, potato and rue away from cucumbers. It is said that cucumbers don't do well planted next to tomato. We have never had a problem with planting them next to each other.																
+Cucumber		like eachother	Corn													
+Cucumber		like eachother	Bean													
+Cucumber		like	Pea													
+Cucumber		like	Beetroot													
+Radish		help	Cucumber		repel	Cucumber Beetle										
+Cucumber		like	Carrot													
+Dill		help	Cucumber		improve	pest_resistance										
+Nasturtiums		help	Cucumber		improve	growth, flavor										
+Cucumber		dislike	Sage													
+Cucumber		dislike	Potato													
+Cucumber		dislike	Rue													
+Cucumber		dislike	Tomato													
+#DAHLIAS: These beautiful, tuberous annuals that can have up to dinner plate size flowers repel Nematodes! 																
+#DILL: Improves growth and health of cabbage. Do not plant near carrots, caraway, lavendar or tomato. Best friend for lettuce. The flower heads of dill are one of the best nectar sources for beneficial Insects in the garden attracting hoverflies, predatory wasps and many more. Repels Aphid and spider mites to some degree. Also may repel the dreaded Squash Bug! (scatter some good size dill leaves on plants that are subject to squash bug, like squash plants.) Dill goes well with lettuce, onions, cabbage, sweet corn and cucumbers. Dill does attract the Tomato Hornworm so it would be wise to plant it somewhere away from your tomato plants. Do plant dill in an appropriate spot for the swallowtail butterFly Caterpillars to feed on. Even their caterpillars are beautiful.																
+Dill		help	Cabbage		improve	growth, health										
+Dill		dislike eachother	Carrot													
+Dill		dislike eachother	Caraway													
+Dill		dislike eachother	Lavendar													
+Tomato		dislike	Dill		attract	Tomato Hornworm										
+Dill		like	Lettuce													
+Dill		like	Onion													
+Dill		like	Corn													
+Dill		like	Cucumber													
+#EGGPLANT: Plant with amaranth, bush beans, pole beans, peas, spinach, tarragon, thyme and marigold. Growing eggplants among bush beans protects from attacks of the Colorado Potato Beetle. Eggplant is a member of the nightshade family and does well with peppers as they like the same growing conditions.																
+Eggplant		like	Amaranth													
+Bush bean		help	Eggplant		repel	Colorado Bug										
+Eggplant		like	Pole bean													
+Eggplant		like	Pea													
+Eggplant		like	Spinach													
+Eggplant		like	Tarragon													
+Eggplant		like	Thyme													
+Eggplant		like	Marigold													
+Eggplant		like		Capsicum annuum												
+#ELDERBERRY: A spray (see insect treatments) made from the leaves can be used against Aphid, Carrot Root Fly, Cucumber Beetle and peach tree Borer. Put branches and leaves in mole runs to banish them. Elderberry leaves added to the compost pile speeds up the decomposing process.																
+#FENNEL: Fennel is not friendly and is allelopathic to most garden plants, inhibiting growth or causing them to bolt. It actually kills many plants. Dill is the only thing you can plant with fennel. Other than that plant it by itself. On a positive note the foliage and flowers attract beneficials such as ladyBugs, syrphid Fly, tachninid fly, beneficial parasitoid wasps and hoverflies Fennel is a good flea repellent. An old saying says to "plant fennel near your kennel" to deter fleas. Dried fennel leaves provide additional flea repelling insurance when put inside the dog house or kennel.																
+Fennel		inhibit		Fabaceae												
+Fennel		inhibit		Solanaceae												
+#FLAX: Plant with carrots, and potato. Flax contains tannin and linseed oils which may offend the Colorado potato Bug. Flax is an annual from 1-4 feet tall with blue or white flowers that readily self sows.																
+Flax		like	Carrot													
+Flax		help	Potato		repel	Colorado Bug										
+#FOUR-O'CLOCKS: Draws Japanese Beetle like a magnet which then dine on the foliage. The foliage is pure poison to them and they won't live to have dessert! It is important to mention that Four O'clock are also poisonous to humans and animals. Please be careful where you plant them if you have children and pets. They are a beautiful annual plant growing from 2-3 feet high with a bushy growth form.																
+#GARLIC: Plant near roses to repel Aphid. It also benefits apple trees, pear trees, cucumbers, peas, lettuce and celery. Plant under peach trees to help repel Borer. Garlic accumulates sulfur: a naturally occurring fungicide which will help in the garden with disease prevention. Garlic is systemic in action as it is taken up by the plants through their pores and when garlic tea is used as a soil drench it is also taken up by the plant roots. It has value in offending Codling Moth, Japanese Beetle, root maggots, snails, and Carrot Root Fly. Researchers have observed that time-released garlic capsules planted at the bases of fruit trees actually kept deer away. It's certainly worth a try! Concentrated garlic sprays have been observed to repel and kill whiteflies, aphid and fungus gnats among others with as little as a 6-8% concentration! It is safe for use on orchids too. 																
+Garlic		help	Rose		repel	Aphid										
+Garlic		help	Apple													
+Garlic		help	Pear		repel	Borer										
+Garlic		help	Cucumber													
+Garlic		help	Lettuce													
+Garlic		help	Celery													
+Garlic		help	Carrot		repel	Carrot Fly										
+#GERANIUM: -Repels Cabbage Worm and Japanese Beetle, plant around grapes, roses, corn, tomato, peppers and cabbage. Geraniums help to distract beet leafhoppers, carrier of the curly top virus.																
+Geranium		help	Cabbage		repel	Cabbage Worm										
+Geranium		like eachother	Grape													
+Geranium		like eachother	Rose													
+Geranium		like eachother	Corn													
+Geranium		like eachother	Tomato													
+Geranium		like eachother		Capsicum annuum												
+#GLADIOLUS: Avoid growing gladiolus near be an, clover, cucumber, melon, or tomato.																
+Gladiolus		dislike eachother	Bean													
+Gladiolus		dislike eachother	Clover													
+Gladiolus		dislike eachother	Cucumber													
+Gladiolus		dislike eachother	Melon													
+Gladiolus		dislike eachother	Tomato													
+#GOPHER PURGE: Deters gophers, and moles.																
+#GRAPES: Hyssop is beneficial to grapes as are basil, beans, geraniums, oregano, clover, peas, blackberries and mustards. Keep radishes and cabbage away from grapes. Planting clover as a groundcover under the vines increases the soil fertility for grapes. Chives with grapes help repel Aphid. Plant your vines under Elm or Mulberry trees.																
+Grape		like	Hyssop													
+Grape		like	Basil													
+Grape		like	Bean													
+Grape		like	Geranium													
+Grape		like	Oregano													
+Clover		help	Grape		improve	soil fertility										
+Grape		like	Pea													
+Grape		like	Blackberry													
+Grape		like	Mustard plants													
+Grape		dislike	Radish													
+Grape		dislike	Cabbage													
+Grape		like	Clover													
+Chive		help	Grape		repel	Aphid										
+#HEMP: Repels many types of Beetle which attack brassicas.																
+Hemp		help	Brassicas		repel	Beetle										
+#HORSERADISH: Plant in containers in the potato patch to keep away Colorado potato Bug. Horseradish increases the disease resistance of potato. There are some very effective insect sprays that can be made with the root. Use the bottomless pot method to keep horseradish contained. Also repels Blister Beetle. We have observed that the root can yield anti-fungal properties when a tea is made from it. (See: Horseradish: Disease)																
+Horseradish		help	Potato		repel	Colorado Bug										
+Horseradish		help	Potato		improve	pest resistance										
+#HOREHOUND: (Marrubium Vulgare) like many varieties in the mint family, the many tiny flowers attract Braconid and Icheumonid wasps, and Tachnid and Syrid Fly. The larval forms of these Insects parasitize or otherwise consume many other insects pests. It grows where many others fail to thrive and can survive harsh winters. Blooms over a long season, attracting beneficial insects almost as long as you are likely to need them. For best results use horehound directly as a companion plant. Stimulates and aids fruiting in tomato and peppers.																
+#HYSSOP: Companion plant to cabbage and grapes, deters Cabbage Moth and flea Beetle. Do not plant near radishes. Hyssop may be the number one preference among bees and some beekeepers rub the hive with it to encourage the bees to keep to their home. It is not as invasive as other members of the mint family making it safer for interplanting.																
+Hyssop		help	Cabbage		repel	Cabbage Moth										
+Hyssop		help	Grape													
+Hyssop		dislike eachother	Radish													
+#KALE: Kale descended from wild cabbage that was grown in Turkey previously known as Asia Minor. Some of the more modern varieties of kale are sweeter than the older versions yet retain all the nutrients of it's ancestors. Kale companions are Beets, cabbage, celery, cucumbers, dill, marigolds, onions, nasturtiums and spinach. Keep kale away from grapes, beans, strawberries, tomato and rue.																
+Kale		like eachother	Beetroot													
+Kale		like eachother	Cabbage													
+Kale		like eachother	Celery													
+Kale		like eachother	Cucumber													
+Kale		like eachother	Dill													
+Kale		like eachother	Marigold													
+Kale		like eachother	Onion													
+Kale		like eachother	Nasturtiums													
+Kale		like eachother	Spinach													
+Kale		dislike eachother	Grape													
+#conflict: Kale		dislike eachother	Bean													
+Kale		dislike eachother	Strawberry													
+Kale		dislike eachother	Tomato													
+Kale		dislike eachother	Rue													
+#KELP: When used in a powder mixture or tea as a spray, this versatile sea herb will not only repel Insects but feed the vegetables. In particular we have observed that kelp foliar sprays keep Aphid and Japanese Beetle away when used as a spray every 8 days before and during infestation times. If you have access to seaweed, use it as a mulch to keep slugs away.																
+#KOHLRABI: May be planted with Beets cucumber, mint, onion, oregano, sage, chives and thyme. Kohlrabi and beets are perfect to grow with one another as beets form in the soil and Kohlrabi makes it's bulb above the soil! Do not plant kohlrabi with pole beans, pepper, strawberry or tomato.																
+Kohlrabi		like	Cucumber													
+Kohlrabi		like	Mint													
+Kohlrabi		like	Onion													
+Kohlrabi		like	Oregano													
+Kohlrabi		like	Sage													
+Kohlrabi		like	Chive													
+Kohlrabi		like	Thyme													
+Kohlrabi		like eachother	Beetroot													
+Kohlrabi		dislike	Pole bean													
+Kohlrabi		dislike		Capsicum annuum												
+Kohlrabi		dislike	Strawberry													
+Kohlrabi		dislike	Tomato													
+#LAMIUM: This will repel potato Bug- a big problem for many gardeners!																
+#LARKSPUR: An annual member of the Delphinium family, larkspur will attract Japanese Beetle. They dine and die! Larkspur is poisonous to humans too.																
+#LAVENDER: Repels fleas and moth. Prolific flowering lavender nourishes many nectar feeding and beneficial Insects. Lavenders can protect nearby plants from insects such as whiteFly, and lavender planted under and near fruit trees can deter Codling Moth. Use dried sprigs of lavender to repel moth. Start plants in winter from cuttings, setting out in spring.																
+#LEEKS: Use leeks near apple trees, carrots, celery and onions which will improve their growth. Leeks also repel Carrot Fly. Avoid planting near legumes.																
+Leek		like	Apple													
+Leek		like	Carrot													
+Leek		like	Celery													
+Leek		like		Allium												
+Leek		dislike	Legumes													
+#LEMON BALM: Sprinkle throughout the garden in an herbal powder mixture to deter many Bug. Lemon balm has citronella compounds that make this work: crush and rub the leaves on your skin to keep Mosquitoes away! Use to ward off Squash Bug!																
+Lemon balm		help	Squash		repel	Squash Bug										
+#LETTUCE: Does well with Beets, broccoli, bush beans, pole beans, carrots, cucumbers, onion, radish and strawberries. It grows happily in the shade under young sunflowers. Dill and lettuce are a perfect pair. Keep lettuce away from cabbage. Cabbage is a deterrent to the growth and flavor of lettuce.																
+Lettuce		like	Beetroot													
+Lettuce		like	Broccoli													
+Lettuce		like	Bush bean													
+Lettuce		like	Pole bean													
+Lettuce		like	Carrot													
+Lettuce		like	Cucumber													
+Lettuce		like	Onion													
+Lettuce		like	Radish													
+Lettuce		like	Strawberry													
+Lettuce		like	Sunflower													
+Lettuce		like eachother	Dill													
+Cabbage		inhibit	Lettuce													
+#LOVAGE: Improves flavor and health of most plants. Good habitat for ground Beetle. A large plant, use one planted as a backdrop. Similar to celery in flavor.																
+#MARIGOLDS: (Calendula): Given a lot of credit as a pest deterrent. Keeps soil free of bad Nematodes; supposed to discourage many Insects. Plant freely throughout the garden. The marigolds you choose must be a scented variety for them to work. One down side is that marigolds do attract spider mites and slugs.																
+#French Marigold (T. patula) has roots that exude a substance which spreads in their immediate vicinity killing Nematodes. For nematode control you want to plant dense areas of them. There have Been some studies done that proved this nematode killing effect lasted for several years after the plants died back. These marigolds also help to deter whiteflies when planted around tomato and can be used in greenhouses for the same purpose. Whiteflies hate the smell of marigolds. Do not plant French marigolds next to bean plants.																
+#Mexican marigold (T. minuta) is the most powerful of the insect repelling marigolds and may also overwhelm weed roots such as bind weed! It is said to repel the Mexican Bean Beetle and wild bunnies! Be careful it can have an herbicidal effect on some plants like beans and cabbage. 																
+#MARJORAM: As a companion plant it improves the flavor of vegetables and herbs. Marjoram will increase yields of beans, asparagus, chives, eggplants, pumpkin, squash and cucumbers. Sweet marjoram is the most commonly grown type. 																
+Marjoram		help	Bean													
+Marjoram		help	Asparagus													
+Marjoram		help	Chive													
+Marjoram		help	Eggplant													
+Marjoram		help	Pumpkin													
+Marjoram		help	Squash													
+Marjoram		help	Cucumber													
+#MELONS: Companions: Corn, pumpkin, radish and squash. Other suggested helpers for melons are as follows: Marigold deters Beetle, nasturtium deters Bug and beetle. Oregano provides general pest protection.
+Melon		like	Corn													
+Melon		like	Pumpkin													
+Melon		like	Radish													
+Melon		like	Squash													
+Marigold		help	Melon		repel	Beetle										
+Nasturtiums		help	Melon		repel	Bug, Beetle										
+Oregano		help	Melon		improve	pest_resistance										
+#MINT: Deters white Cabbage Moth, ants, rodents, flea Beetle, fleas, Aphid and improves the health of cabbage and tomato. Use cuttings as a mulch around members of the brassica family. Mint flowers attract hoverflies and predatory wasps. EarthWorms are quite attracted to mint plantings. Be careful where you plant it as mint is an incredibly invasive perennial. We have found that placing peppermint cuttings (fresh or dried) where mice are a problem is very effective in driving them off! 																
+Mint		help	Cabbage		repel	Cabbage Moth										
+Mint		help	Cabbage		improve	health										
+Mint		help	Tomato		improve	health										
+#MOLE PLANTS: (castor bean plant) Deter moles and mice if planted here and there throughout the garden. Drop a seed of this in mole runs to drive them away. This is a poisonous plant. See Moles: Critter Trouble 																
+#MORNING GLORIES: They attract hoverflies. Plus if you want a fast growing annual vine to cover something up morning glory is an excellent choice. 																
+#NASTURTIUMS: Nasturtiums is an excellent companion for many plants. It is a companion to radishes, cabbage family plants (cabbage, collards, cauliflower, kale, kohlrabi, broccoli and mustards), deterring Aphid, Squash Bug, and striped pumpkin Beetle, and improving growth and flavor. Plant as a barrier around tomato, cabbage, cucumbers, and under fruit trees. Deters wooly aphid, whiteflies, Cucumber Beetle and other pests of the cucurbit family. Great trap crop for aphid (in particular the black aphid) which it does attract, especially the yellow flowering varieties. It likes poor soil with low moisture and no fertilizer. Keeping that in mind there is no reason not to set potted nasturtiums among your garden beds. It has been the practice of some fruit growers that planting nasturtiums every year in the root zone of fruit trees allow the trees to take up the pungent odor of the plants and repel bug. Studies say it is among the best at attracting predatory Insects. It has no taste effect on the fruit. A nice variety to grow is Alaska which has attractive green and white variegated leaves. The leaves, flowers and seeds of nasturtiums are all edible and wonderful in salads!																
+Nasturtiums		help	Radish													
+Nasturtiums		help		Brassica												
+Nasturtiums		help	Squash													
+Nasturtiums		help	Pumpkin													
+Nasturtiums		help	Tomato													
+Nasturtiums		help	Cucumber													
+Nasturtiums		help	Fruit trees													
+Nasturtiums		help		Cucurbitaceae	improve	pest_resistance										
+#NETTLES, STINGING: The flowers attract Bees. Sprays made from these are rich in silica and calcium. Invigorating for plants and improves their disease resistance. Leaving the mixture to rot, it then makes an excellent liquid feed. Comfrey improves the liquid feed even more. Hairs on the nettles' leaves contain formic acid which "stings" you.																
+#OKRA: (Hibiscus esculentus ) Plant lettuce around your okra plants and they will shade the lettuce in the summer giving you some more growing time. Okra also does well with peppers and eggplants as it helps protect these brittle stemmed plants from high winds. It also gets along with basil, cucumbers, melons, and black eyed peas. For planting with the peas plant your Okra first. When the okra is up and established plant the peas around the edges of the okra planting. You may find that the peas are far less bothered by Aphid when near okra.
+Okra		help	Lettuce													
+Okra		help		Capsicum annuum												
+Okra		help	Eggplant													
+Okra		like eachother	Basil													
+Okra		like eachother	Cucumber													
+Okra		like eachother	Melon													
+Okra		like eachother	Black eyed pea													
+#ONIONS: Planting chamomile and summer savory with onions improves their flavor. Other companions are carrot, leek, Beets, kohlrabi, strawberries, brassicas, dill, lettuce and tomato. Intercropping onions and leeks with your carrots confuses the carrot and Onion Fly! Onions planted with strawberries help the berries fight disease. Keep onions away from peas and asparagus.																
+	Allium	help	Chamomile		improve	flavor										
+	Allium	help	Summer savory		improve	flavor										
+	Allium	like	Carrot		repel	Onion Fly										
+	Allium	help	Carrot		repel	Carrot Fly										
+	Allium	like eachother	Leek													
+	Allium	like eachother	Beetroot													
+	Allium	like eachother	Kohlrabi													
+	Allium	like eachother	Strawberry													
+	Allium	like eachother		Brassica												
+	Allium	like eachother	Dill													
+	Allium	like eachother	Lettuce													
+	Allium	like eachother	Tomato													
+	Allium	like eachother	Carrot													
+	Allium	like eachother	Strawberry													
+	Allium	dislike eachother	Pea													
+	Allium	dislike eachother	Asparagus													
+#OPAL BASIL: An annual herb that is pretty, tasty and said to repel hornWorm! Like the other basils it also does well with peppers, oregano, asparagus and petunias. Keep away from rue and sage.																
+#OREGANO: Can be used with most crops but especially good for cabbage. Plant near broccoli, cabbage and cauliflower to repel Cabbage Butterfly and near cucumbers to repel Cucumber Beetle. Also benefits grapes.																
+Oregano		help	Brassicas		repel	Cabbage Butterfly										
+Oregano		help	Cucumber		repel	Cucumber Beetle										
+Oregano		help	Grape													
+#PARSLEY: Allies: Asparagus, carrot, chives, onions, roses and tomato. Sprinkle the leaves on tomato, and asparagus. Use as a tea to ward off Asparagus Beetle. Attracts hoverflies. Let some go to seed to attract the tiny parasitic wasps and hoverflies. Parsley increases the fragrance of roses when planted around their base. Rose problems? See: Rose Rx for answers. Mint and parsley are enemies. Keep them well away from one another.																
+Parsley		like eachother	Asparagus													
+Parsley		like eachother	Carrot													
+Parsley		like eachother	Chive													
+Parsley		like eachother	Onion													
+Parsley		like eachother	Rose													
+Parsley		like eachother	Tomato													
+Parsley		help	Rose		improve	fragrance										
+Parsley		dislike eachother	Mint													
+#PARSNIPS: Plant them along with bush bean, garlic, marigolds, onion, pea, pepper, potato, radish and squash. Parsnips like frequent, regular watering, so do not plant them with anything that prefers a drier soil. Like many root vegetables, parsnips taste their best when harvested after a few light frosts which causes them to convert their starch into sugars.																
+Parsnip		like	Bean													
+Parsnip		like	Garlic													
+Parsnip		like	Marigold													
+Parsnip		like	Onion													
+Parsnip		like	Pea													
+Parsnip		like		Capsicum annuum												
+Parsnip		like	Potato													
+Parsnip		like	Radish													
+Parsnip		like	Squash													
+#PEANUTS: Beets, corn, cucumber, eggplant, lettuce, marigold, melon, and sunflower all do well around peanuts. Peanuts encourage growth of corn and squash. When planting peanuts with corn and squash, plant the corn first and allow the plants to grow a few inches high before planting peanuts and squash. Plant the peanuts alongside the corn plants about 3 inches from the base of each corn stalk. The squash should then be planted at least 12 inches from the peanuts and corn. Keep peanuts away from basil, fennel, kohlrabi, onion and other legumes.																
+Peanut		help	Beetroot													
+Peanut		help	Corn		improve	growth										
+Peanut		help	Cucumber													
+Peanut		help	Eggplant													
+Peanut		help	Lettuce													
+Peanut		help	Marigold													
+Peanut		help	Melon													
+Peanut		help	Sunflower													
+Peanut		help	Squash		improve	growth										
+Peanut		dislike	Basil													
+Peanut		dislike	Fennel													
+Peanut		dislike	Kohlrabi													
+Peanut		dislike	Onion													
+Peanut		dislike	Legumes													
+#PEACH TREE: Grape, Garlic, Onion and Asparagus may be planted under or near peach trees. In particular garlic may help repel peach tree Borer which are a big problem for peach growers. Keep Potato, Tomato and Raspberry away from peaches.																
+Peach		help	Grape													
+Garlic		help	Peach		repel	tree Borer										
+Onion		help	Peach		repel	tree Borer										
+Peach		help	Asparagus													
+Peach		dislike eachother	Potato													
+Peach		dislike eachother	Tomato													
+Peach		dislike eachother	Raspberry													
+#PEAS: Peas fix nitrogen in the soil. Plant next to corn. Companions for peas are bush beans, pole beans, carrots, celery, chicory, corn, cucumber, eggplant, parsley, early potato, radish, spinach, strawberry, sweet pepper, tomato and turnips. Do not plant peas with chives, gladiolus, grapes, late potato or onions.																
+Pea		like	Bean													
+Pea		like	Carrot													
+Pea		like	Celery													
+Pea		like	Chicory													
+Pea		like	Corn													
+Pea		like	Cucumber													
+Pea		like	Eggplant													
+Pea		like	Parsley													
+Pea		like	Potato													
+Pea		like	Radish													
+Pea		like	Spinach													
+Pea		like	Strawberry													
+Pea		like	Bell pepper													
+Pea		like	Tomato													
+Pea		like	Turnip													
+Pea		dislike	Chive													
+Pea		dislike	Gladiolu													
+Pea		dislike	Grape													
+Pea		dislike		Allium												
+#PEPPERMINT: Repels white Cabbage Moth, Aphid and flea Beetle. It is the menthol content in mints that acts as an insect repellant. Bees and other good guys love it. 																
+#PEPPERS, BELL? (Sweet Peppers): Plant peppers near tomato, parsley, basil, geraniums, marjoram, lovage, petunia and carrots. Onions make an excellent companion plant for peppers. They do quite well with okra as it shelters them and protects the brittle stems from wind. Don't plant them near fennel or kohlrabi. They should also not be grown near apricot trees because a fungus that the pepper is prone to can cause a lot of harm to the apricot tree. Peppers can double as ornamentals, so tuck some into flowerbeds and borders. Harvesting tip: The traditional bell pepper, for example, is harvested green, even though most varieties will mature red, orange, or yellow. Peppers can be harvested at any stage of growth, but their flavor doesn't fully develop until maturity.																
+Bell pepper		like	Tomato													
+Bell pepper		like	Parsley													
+Bell pepper		like	Basil													
+Bell pepper		like	Geranium													
+Bell pepper		like	Marjoram													
+Bell pepper		like	Lovage													
+Bell pepper		like	Petunia													
+	Capsicum annuum	like	Carrot													
+	Capsicum annuum	like		Allium													
+Bell pepper		help	Okra													
+Bell pepper		dislike	Fennel													
+	Capsicum annuum	dislike	Kohlrabi													
+Bell pepper		dislike eachother	Apricot													
+#PEPPERS, HOT: Chili peppers have root exudates that prevent root rot and other Fusarium diseases. Plant anywhere you have these problems. While you should always plant chili peppers close together, providing shelter from the sun with other plants will help keep them from drying out and provide more humidity. Tomato plants, green peppers, and okra are good protection for them. Teas made from hot peppers can be useful as insect sprays. Hot peppers like to be grouped with cucumbers, eggplant, escarole, tomato, okra, Swiss chard and squash. Herbs to plant near them include: basils, oregano, parsley and rosemary. Never put them next to any beans, broccoli, cabbage, cauliflower, Brussels sprouts or fennel. 																
+Chili		like	Tomato													
+Chili		like	Bell pepper													
+Chili		like	Okra													
+Chili		like	Cucumber													
+	Capsicum annuum	like	Eggplant													
+Chili		like	Escarole													
+Chili		like	Chard													
+Chili		like	Squash													
+Chili		like	Basil													
+Chili		like	Oregano													
+Chili		like	Parsley													
+Chili		like	Rosemary													
+Chili		dislike	Bean													
+	Capsicum annuum	dislike		Brassica												
+Chili		dislike	Fennel													
+#PENNYROYAL: Repels fleas. The leaves when crushed and rubbed onto your skin will repel chiggers, Fly, gnats, Mosquitoes and ticks. Warning: Pennyroyal is highly toxic to cats. It should not be planted where cats might ingest it and never rubbed onto their skin. 																
+#PETUNIAS: They repel the Asparagus Beetle, leafhoppers, certain Aphid, Tomato Worm, Mexican Bean Beetle and general garden pests. A good companion to tomato, but plant everywhere. The leaves can be used in a tea to make a potent Bug spray. 																
+Petunia		help	Asparagus		repel	Asparagus Beetle										
+Petunia		help	Tomato		repel	Tomato Hornworm										
+Petunia		help	Bean		repel	Mexican Bean Beetle										
+#POACHED EGG PLANT: Grow poached egg plant with tomato, they will attract hover Fly and hover fly eat Aphid. 																
+#POTATO: Companions for potato are bush bean, members of the cabbage family, carrot, celery, corn, dead nettle, flax, horseradish, marigold, peas, petunia, onion and Tagetes marigold. Protect them from Scab by putting comfrey leaves in with your potato sets at planting time. Horseradish, planted at the corners of the potato patch, provides general protection. Alyssum makes a perfect living mulch for them. Don't plant these around potato: asparagus, cucumber, kohlrabi, pumpkin, rutabaga, squash family, sunflower, turnip and fennel. Keep potato and tomato apart as they both can get early and late blight contaminating each other. 																
+Potato		like	Beans family													
+Potato		like		Brassica oleracea													
+Potato		like	Carrot													
+Potato		like	Celery													
+Potato		like	Corn													
+Potato		like	Dead nettle													
+Potato		like	Flax													
+Potato		like	Horseradish													
+Potato		like	Pot Marigold													
+Potato		like	Petunia													
+Potato		like	Onion													
+Potato		like	Marigold													
+Potato		dislike eachother	Asparagus													
+Potato		dislike eachother	Cucumber													
+#conflict: Potato		dislike eachother	Rutabaga													
+Potato		dislike eachother		Cucurbita												
+Potato		dislike eachother	Sunflower													
+#conflict: Potato		dislike eachother	Turnip													
+Potato		dislike eachother	Fennel													
+#PUMPKINS: Pumpkin pals are corn, melon and squash. Marigold deters Beetle. Nasturtiums deters Bug, beetle. Oregano provides general pest protection. Again dill may help repel those frustrating Squash Bug. See squash entry for more tips.																
+Pumpkin		like eachother	Corn													
+Pumpkin		like eachother	Melon													
+Pumpkin		like eachother	Squash													
+Pumpkin		like	Marigold		repel	Beetle										
+Pumpkin		like	Nasturtiums		repel	Bug, Beetle										
+Pumpkin		like	Oregano		improve	pest_resistance										
+Pumpkin		like	Dill		repel	Squash Bug										
+#PURSLANE: This edible weed makes good ground cover in the corn patch. Use the stems, leaves and seeds in stir-frys. Pickle the green seed pod for caper substitutes. If purslane is growing in your garden it means you have healthy, fertile soil! 																
+#RADISH: One of the workhorses for the garden. Companions for radishes are: radish, Beet, bush beans, pole beans, carrots, chervil, cucumber, lettuce, melons, nasturtium, parsnip, peas, spinach and members of the squash family. Why plant radishes with your squash plants? Radishes may protect them from Squash Borer. Anything that will help keep them away is worth a try. Radishes are a deterrent against Cucumber Beetle and Rust Fly. Chervil and nasturtium improve radish growth and flavor. Planting them around corn and letting them go to seed will also help fight corn borer. Chinese Daikon and Snow Belle radishes are favorites of flea beetle. Plant these at 6 to 12 inch intervals amongst broccoli. In one trial, this measurably reduced damage to broccoli. Radishes will lure leafminers away from spinach. The damage the leafminers do to radish leaves does not stop the radish roots from growing, a win-win situation. Keep radishes away from hyssop plants, cabbage, cauliflower, Brussels sprouts and turnips. Radishes are a good indicator of calcium levels in the soil. If you radish grows and only produces a stringy root you need calcium. See our charts on nutrient deficiencies and soil amendments for more information. For some good eating try our delicious Radish varieties.																
+Radish		like	Beetroot													
+Radish		like	Bush bean													
+Radish		like	Pole bean													
+Radish		like	Carrot													
+Radish		like	Chervil													
+Radish		help	Cucumber		repel	Cucumber Beetle, Rust Fly										
+Radish		like	Lettuce													
+Radish		like	Melon													
+Radish		like	Nasturtiums													
+Radish		like	Parsnip													
+Radish		like	Pea													
+Radish		like	Spinach													
+Radish		help		Cucurbitaceae	repel	Squash Borer										
+Radish		like	Corn		repel	Borer										
+Radish		dislike	Hyssop													
+Radish		dislike	Cabbage													
+Radish		dislike	Cauliflower													
+Radish		dislike	Brussels sprouts													
+Radish		dislike	Turnip													
+#RASPBERRIES: Companions are rue, marigold and garlic which help repel Insects from the berries. The garlic accumulates sulfur which is a natural fungicide so when planted with raspberries, garlic will help prevent fungal diseases. Turnips can be beneficial companions as they repel the Harlequin Beetle. Foes: Blackberries, black raspberry, purple raspberry, tomato and potato. Blackberries, black and purple raspberries should be planted at least 600 feet away from the red varieties because of virus disease susceptibility. Raspberries grown with potato make the potato more susceptible to blight.																
+Raspberry		like	Rue		repel	Insects										
+Raspberry		like	Marigold		repel	Insects										
+Raspberry		like	Garlic		repel	Insects										
+Raspberry		like	Turnip		repel	Harlequin Beetle										
+Raspberry		dislike	Blackberry													
+Raspberry		dislike	Black raspberry													
+Raspberry		dislike	Purple raspberry													
+Raspberry		dislike	Tomato													
+Raspberry		dislike	Potato													
+#RHUBARB: A good companion to all brassicas. Try planting cabbage and broccoli plants your rhubarb patch watch them thrive. Rhubarb protects beans against Black Fly. Some other interesting companions for rhubarb are the beautiful columbine flowers, garlic, onion and roses! It helps deter Red Spider mites from the columbines. A spray made from boiled rhubarb leaves, which contain the poison oxalic acid may be used to prevent blackspot on roses and as an aphicide.
+Rhubarb		help eachother	Brassicas		improve	growth										
+Rhubarb		help	Bean		repel	Black Fly										
+Rhubarb		help	Columbine flower		repel	Red Spider										
+Rhubarb		like		Allium												
+Rhubarb		like	Rose													
+#ROSEMARY: Companion plant to cabbage, beans, carrots and sage. Deters Cabbage Moth, Bean Beetle, and Carrot Fly. Use cuttings to place by the crowns of carrots for carrot fly. Zones 6 and colder can overwinter rosemary as houseplants or take cuttings. 																
+Rosemary		help	Cabbage		repel	Cabbage Moth										
+Rosemary		help	Bean		repel	Bean Beetle										
+Rosemary		help	Carrot		repel	Carrot Fly										
+Rosemary		like eachother	Sage													
+#RUE: Deters Aphid, fish moth, flea Beetle, onion maggot, slugs, snails, Fly and Japanese Beetle in roses and raspberries. Companions for rue are roses, fruits (in particular figs), raspberries and lavender. To make it even more effective with Japanese beetle: crush a few leaves to release the smell. Has helped repel cats for us. You should not plant rue near cucumbers, cabbage, basil or sage. A pretty perennial with bluish-gray leaves. May be grown indoors in a sunny window. Rue may cause skin irritation in some individuals. Remedy: See cats and dogs: Rue spray. 																
+Rue		help	Onion		repel	onion maggot										
+Rue		help	Rose		repel	Japanese Beetle										
+Rue		help	Raspberry		repel	Japanese Beetle										
+Rue		dislike eachother	Lavender													
+Rue		dislike eachother	Cucumber													
+Rue		dislike eachother	Cabbage													
+Rue		dislike eachother	Basil													
+Rue		dislike eachother	Sage													
+#RYE: An excellent use of plant allelopathy is the use of mow-killed grain rye as a mulch. The allelochemicals that leach from the rye residue prevent weed germination but do not harm transplanted tomato, broccoli, or many other vegetables. 																
+#SAGE: Use as a companion plant with broccoli, cauliflower, rosemary, cabbage, and carrots to deter Cabbage Moth, Beetle, black flea beetle and Carrot Fly. Do not plant near cucumbers, onions or rue. Sage repels cabbage moth and black flea beetle. Allowing sage to flower will also attract many beneficial Insects and the flowers are pretty. There are some very striking varieties of sage with variegated foliage that can be used for their ornamental as well as practical qualities. More on sage.																
+Sage		help	Brassicas		repel	Cabbage Moth										
+Sage		help	Rosemary													
+Sage		help	Carrot		repel	Carrot Fly										
+Sage		dislike eachother	Cucumber													
+Sage		dislike eachother	Onion													
+Sage		dislike eachother	Rue													
+#SALISFY: (AKA "oyster plant") Plant allies: Carrots, leeks, onions, turnips, rutabaga, potato and sweet potato.																
+Salisfy		like eachother	Carrot													
+Salisfy		like eachother	Leek													
+Salisfy		like eachother	Onion													
+Salisfy		like eachother	Turnip													
+Salisfy		like eachother	Rutabaga													
+Salisfy		like eachother	Potato													
+Salisfy		like eachother	Sweet potato													
+#SPINACH: Plant with peas and beans as they provide natural shade for the spinach. Gets along with cabbage, cauliflower, celery, eggplant, onion, peas, strawberries and fava bean. Plant spinach with squash. It's a good use of space because by the time squash plants start to get big the spinach is ready to bolt.
+Spinach		like	Beans													
+Spinach		like		Brassica												
+Spinach		like	Celery													
+Spinach		like	Eggplant													
+Spinach		like	Onion													
+Spinach		like	Strawberry													
+Spinach		like	Broadbean													
+Spinach		like eachother	Squash													
+#SOUTHERNWOOD: Plant with cabbage, and here and there in the garden. Wonderful lemony scent when crushed or brushed in passing. Roots easily from cuttings. Does not like fertilizer! It is a perennial that can get quite bushy. We have started to cut it back every spring and it comes back in not time. A delightful plant that is virtually pest free. 																
+Southernwood		like eachother	Cabbage													
+#SOYBEANS: They add nitrogen to the soil making them a good companion to corn. They repel chinch Bug and Japanese Beetle. Why not try soybeans, they are good for you. They are many tasty ways to prepare them. 																
+Soybean		like eachother	Corn													
+#SQUASH: Companions: Beans, corn, cucumbers, icicle radishes, melon, mint, onions and pumpkin. Helpers: Borage deters Worm, improves growth and flavor. Marigolds deters Beetle. Nasturtiums deters Squash Bug and beetle. Oregano provides general pest protection. Dill may repel the squash bug that will kill your squash vines. Generously scatter the dill leaves on your squash plants. Keep squash away from potato. 																
+Squash		like	Bean													
+Squash		like	Corn													
+Squash		like	Cucumber													
+Squash		like	Icicle radishe													
+Squash		like	Melon													
+Squash		like	Mint													
+Squash		like	Onion													
+Squash		like	Pumpkin													
+Squash		like	Borage		repel	Worm										
+Squash		like	Marigold		repel	Beetle										
+Squash		like	Nasturtiums		repel	Squash Bug										
+Squash		like	Oregano		improve	pest_resistance										
+Squash		like	Dill		repel	Squash Bug										
+Squash		dislike eachother	Potato													
+#SWEET potato: Sweet potato are not the same as regular potato. They are a member of the morning glory family. "Regular" potato are a member of the Solanaceae family which is the same as tomato, peppers etc. Aromatic herbs such as dill, thyme, oregano etc. are some of the plants that work well with them. Summer savory helps to confuse and perhaps repel the Sweet Potato Weevil. They do well with root crops: Beets, parsnips and salsify. Bush beans and regular potato are companions to them also. Alyssum makes a perfect living mulch for them. A few, only a few, pole beans may be planted with them and left to grow on the ground with the potato vines. Keep them away from squash. The problem with sweet potato and squash is they will compete with each other as they both like to spread out. In fact that is the general problem with sweet potato- they take up so much room and need full sun. Another idea is to grow them in a container. For your reference: you could grow a single sweet potato plant in a box or tub that is at least 12" high and 15" wide. Use a light, porous soil mix. Place a stake or trellis in the center to support the vine which grow up and outwards.																
+Sweet potato		like	Aromatic herbs													
+Sweet potato		like	Summer savory		repel	Sweet Potato Weevil										
+Sweet potato		like	Beetroot													
+Sweet potato		like	Parsnip													
+Sweet potato		like	Salsify													
+Sweet potato		like	Bush bean													
+Sweet potato		like	Potato													
+Sweet potato		dislike eachother	Squash													
+#STRAWBERRY: Friends are beans, borage, lettuce, onions, spinach and thyme. Foes: Cabbage, broccoli, Brussels sprouts, cauliflower and kohlrabi. Allies: Borage strengthens resistance to Insects and disease. Thyme, as a border, deters Worm.																
+Strawberry		like	Beans family													
+Strawberry		like	Borage		improve	pest resistance										
+Strawberry		like	Lettuce													
+Strawberry		like		Allium												
+Strawberry		like	Spinach													
+Strawberry		like	Thyme		repel	Worm										
+Strawberry		dislike	Brassicas													
+#SUMMER SAVORY: Plant with beans and onions to improve growth and flavor. Include it with sweet potato. Discourages Cabbage Moth, Mexican Bean Beetle, Sweet Potato Weevil and black Aphid. Honey bees love it when it is in bloom.																
+Summer savory		help	Beans family		repel	Bean Beetle										
+Summer savory		help	Beans family		improve	growth, flavor										
+Summer savory		help		Allium	improve	growth, flavor										
+Summer savory		help	Chamomile		improve	flavor										
+Summer savory		help	Sweet potato		repel	Sweet Potato Weevil										
+#SUNFLOWERS: Planting sunflowers with corn is said by some to increase the yield. Aphid a problem? Definitely plant a few sunflowers here and there in the garden. Step back and watch the ants herd the aphid onto them. We have Been doing this for years and it is remarkable. The sunflowers are so tough that the aphid cause very little damage and you will have nice seed heads for the birds to enjoy. Sunflowers also attract hummingbirds which eat whiteflies. Talk about a symbiotic relationship! 																
+Sunflower		like eachother	Corn													
+#SWEET ALYSSUM: Direct seed or set out starts of sweet alyssum near plants that have Been attacked by Aphid in the past. Alyssum flowers attract hoverflies whose larva devour aphid. Another plus is their blooms draw bees to pollinate early blooming fruit trees. They will reseed freely and make a beautiful groundcover every year.																
+#TANSY: Plant with fruit trees, roses and raspberries keeping in mind that it can be invasive and is not the most attractive of plants. Tansy which is often recommended as an ant repellant may only work on sugar type ants. These are the ones that you see on peonies and marching into the kitchen. At least for us placing tansy clippings by the greenhouse door has kept them out. Deters Flying Insects, Japanese Beetle, striped Cucumber Beetle, Squash Bug, ants and mice! Tie up and hang a bunch of tansy leaves indoors as a fly repellent. Use clippings as a mulch as needed. Don't be afraid to cut the plant up as tansy will bounce back from any abuse heaped on it! It is also a helpful addition to the compost pile with its' high potassium content.																
+Tansy		help	Fruit trees													
+Tansy		help	Rose													
+Tansy		help	Raspberry													
+Tansy		help	Cucumber		repel	Cucumber Beetle										
+Tansy		help	Squash		repel	Squash Bug										
+#TARRAGON: Plant throughout the garden, not many pests like this one. Recommended to enhance growth and flavor of vegetables.																
+#THYME: Deters Cabbage Worm. Wooly thyme makes a wonderful groundcover. You may want to use the upright form of thyme in the garden rather than the groundcover types. Thyme is easy to grow from seeds or cuttings. Older woody plants should be divided in spring.																
+Thyme		help		Brassica	repel	Cabbage Worm										
+#tomato: Tomato allies are many: asparagus, basil, bean, carrots, celery, chive, cucumber, garlic, head lettuce, marigold, mint, nasturtium, onion, parsley, pea, pepper, marigold, pot marigold and sow thistle. One drawback with tomato and carrots: tomato plants can stunt the growth of your carrots but the carrots will still be of good flavor. Basil repels Fly and Mosquitoes, improves growth and flavor. Bee balm, chives and mint improve health and flavor. Borage deters Tomato Worm, improves growth and flavor. Dill, until mature, improves growth and health, mature dill retards tomato growth. Enemies: keep corn and tomato apart as they are attacked by the same worm. Known as the Corn Earworm or tomato fruitworm. In the caterpillar phase of its life, it causes damage to fresh sweet corn by burrowing into the tops and in tomato, they chew a hole in the stem end, ruining the fruit, and in peppers they form small brown holes as they bore in and out of the developing fruit. Kohlrabi stunts tomato growth. Keep potato and tomato apart as they both can get early and late blight contaminating each other. Keep apricot, dill, fennel, cabbage and cauliflower away from them. Don't plant them under walnut trees as they will get walnut Wilt: a disease that attacks tomato growing underneath these trees.																
+Tomato		like	Asparagus													
+Tomato		like	Basil		repel	Fly, Mosquitoes										
+Tomato		like	Bean													
+Tomato		like	Carrot													
+Tomato		like	Celery													
+Tomato		like	Chive		improve	growth, flavor										
+Tomato		like	Cucumber													
+Tomato		like	Garlic													
+Tomato		like	Lettuce													
+Tomato		like	Marigold													
+Tomato		like	Mint		improve	growth, flavor										
+Tomato		like	Nasturtiums													
+Tomato		like	Onion													
+Tomato		like	Parsley													
+Tomato		like	Pea													
+Tomato		like eachother		Capsicum annuum												
+Tomato		like	Marigold													
+Tomato		like	Pot Marigold													
+Tomato		like	Sow thistle													
+Tomato		like	Carrot													
+Tomato		like	Bee balm		improve	growth, flavor										
+Tomato		like	Chive													
+Tomato		like	Mint													
+Tomato		like	Borage		repel	Tomato Hornworm										
+#conflict: Tomato		like	Dill													
+Tomato		dislike	Corn													
+Kohlrabi		inhibit	Tomato													
+Tomato		dislike	Potato													
+Tomato		dislike	Apricot													
+Tomato		dislike	Dill													
+Tomato		dislike	Fennel													
+Tomato		dislike	Brassicas													
+#TURNIP: Peas are good companions for turnips due to their nitrogen fixing in the soil. Cabbage does well with turnips because of the turnip's tendency to repel certain pests. Do not plant potato, radishes or other root vegetables near your turnips. These vegetables will compete for nutrients with the turnips and reduce crop size and yield. Other plants that do not do well with turnips are delphinium, larkspur and mustard.																
+Turnip		like	Pea													
+Turnip		help	Cabbage		improve	pest_resistance										
+# conflict: Turnip		dislike	Potato													
+Turnip		dislike	Radish													
+Turnip		dislike	Mustard plants													
+#Watermelon: May be planted in between hills of corn. Grow them with corn, nasturtiums, peas, sunflowers, squash, cucumbers, pumpkins and radishes. Nasturtiums helps to deter Bug and Beetle. Oregano provides general pest protection.																
+Watermelon		like	Corn													
+Watermelon		like	Nasturtiums													
+Watermelon		like	Pea													
+Watermelon		like	Sunflower													
+Watermelon		like	Squash													
+Watermelon		like	Cucumber													
+Watermelon		like	Pumpkin													
+Watermelon		like	Radish		repel	Bug, Beetle										
+Watermelon		like	Oregano		improve	pest_resistance										
+#WHITE GERANIUMS: These members of the pelargonum family draw Japanese Beetle to feast on the foliage which in turn kills them.																
+#WormWOOD: Keeps animals out of the garden when planted as a border. An excellent deterrent to most Insects. Don't plant wormwood with peas or beans. A tea made from wormwood will repel Cabbage Moth, slugs, snails, black flea Beetle and fleas effectively. The two best varieties for making insect spray are Silver King and Powis Castle. Adversely Powis castle attracts ladyBugs which in turn breed directly on the plant. Silver Mound is great as a border plant and the most toxic wormwood. Note: As wormwood actually produces a botanical poison do not use it directly on food crops.																
+Wormwood		dislike eachother	Beans family													
+#YARROW: Yarrow has insect repelling qualities and is an excellent natural fertilizer. A handful of yarrow leaves added to the compost pile really speeds things up. Try it! It also attracts predatory wasps and ladyBugs to name just two. It may increase the essential oil content of herbs when planted among them. Yarrow has so many wonderful properties to it and is an ingredient in our own Golden Harvest Fertilizer. 																
+#ZINNIA: Pretty zinnias attract hummingbirds which eat whiteflies. Alternately the pastel varieties of zinnias can be used as a trap crop for Japanese Beetle. All zinnias attract bees and other insect pollinators. 																

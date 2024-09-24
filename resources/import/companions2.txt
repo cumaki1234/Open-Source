@@ -1,0 +1,224 @@
+source	Cornell - Companion planting	http://cceniagaracounty.org/wp-content/uploads/2014/02/companion-planting-info.pdf
+tag	Aromatic herbs	Dill	Basil	Thyme	Rosemary	Summer savory	Catnip	Sage	Hyssop	Lovage	Mint	Coriander	Anise	Tarragon	Lemon balm
+tag	Aromatic herbs except Dill	Basil	Thyme	Rosemary	Summer savory	Catnip	Sage	Hyssop	Lovage	Mint	Coriander	Anise	Tarragon	Lemon balm
+tag	Beans	Bean	Broadbean	Pea	Soybean
+page	name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info
+1	Asparagus		like eachother	Tomato			
+1	Asparagus		like eachother	Parsley			
+1	Bean		like	Carrot			
+1	Bean		like	Cauliflower			
+1	Bean		like		Beta vulgaris		
+1	Bean		help	Cucumber			
+1	Bean		help	Cabbage			
+1	Summer savory		help	Bean		improve	growth, flavor
+1	Summer savory		help	Bean		repel	Bean Beetle
+1	Bean		dislike		Allium		
+1	Bean		dislike	Gladiolas			
+1		Beta vulgaris	like	bush bean			
+1		Beta vulgaris	like	Onion			
+1		Beta vulgaris	like	Kohlrabi			
+1		Beta vulgaris	dislike	pole bean			
+1	Lettuce		help		Beta vulgaris		
+1	Brassicas		help		Beta vulgaris		
+1	Brassicas		like	Aromatic herbs			
+1	Brassicas		dislike	Tomato			
+1	Brassicas		dislike	Pole bean			
+1	Brassicas		dislike	Strawberry			
+1	Carrot		like		Allium	repel	Carrot Fly
+1	Corn		like	Potato			
+1	Corn		like	Beans			
+1	Corn		like	Cucumber			
+1	Corn		like	Pumpkin			
+1	Corn		like	Squash			
+1	Melon		like	Corn			
+1	Squash		like	Corn			
+1	Pumpkin		like	Corn			
+1	Cucumber		like	Corn			
+1	Cucumber		help	Corn		repel	Racoon
+1	Radish		help	Cucumber		repel	Cucumber Beetle
+2	Cucumber		dislike eachother	Potato			
+2	Cucumber		dislike	Aromatic herbs except Dill			
+2	Lettuce		like	Strawberry			
+2	Lettuce		like	Cucumber			
+2	Lettuce		like	Carrot			
+2	Radish		like	Lettuce			
+2	Onion		like eachother	Brassicas			
+2	Onion		like		Beta vulgaris		
+2	Onion		like	Strawberry			
+2	Onion		like	Tomato			
+2	Onion		like	Lettuce			
+2	Onion		like	Summer savory			
+2	Onion		like	Chamomile			
+2	Onion		dislike	Beans			
+2	Ornamental onion		help	Rose			
+2	Bell pepper		like eachother	Basil			
+2	Squash		like	White radish		repel	Insects
+2	Nasturtiums		help	Squash		repel	Squash Bug
+2	Tomato		dislike eachother	Brassicas			
+2	Tomato		dislike	Potato			
+2	Tomato		dislike	Fennel			
+2	Tomato		like	Chive			
+2	Tomato		like	Onion			
+2	Tomato		like	Parsley			
+2	Tomato		like	Marigold			
+2	Tomato		like	Nasturtiums			
+2	Tomato		like	Carrot			
+2	Garlic		help	Tomato		repel	Red Spider
+2	Tomato		help	Rose		repel	blackspot
+3	Geranium		help	Corn		repel	Corn Earworm
+3	Geranium		help	Brassicas		repel	Cabbage Worm
+3	Geranium		help	Grape		repel	Japanese Beetle
+3	Geranium		help	Rose		repel	Japanese Beetle
+3	Geranium		help	Hop		repel	Japanese Beetle
+3	Borage		help	Tomato		repel	Tomato Hornworm
+3	Pot Marigold		help	Tomato		repel	Tomato Hornworm
+#conflict: 3	Dill		help	Tomato		repel	Tomato Hornworm
+3	Thyme		help	Tomato		repel	Tomato Hornworm
+3	Basil		help	Asparagus		repel	Asparagus Beetle
+3	Pot Marigold		help	Asparagus		repel	Asparagus Beetle
+3	Nasturtiums		help	Asparagus		repel	Asparagus Beetle
+3	Parsley		help	Asparagus		repel	Asparagus Beetle
+3	Tansy		help	Asparagus		repel	Asparagus Beetle
+3	Tomato		help	Asparagus		repel	Asparagus Beetle
+4	Anise		help	Coriander			
+4	Basil		help	Bell pepper			
+4	Basil		help	Tomato			
+4	Bee balm		help	Tomato			
+4	Borage		help	Bean			
+4	Borage		help	Strawberry			
+4	Borage		help	Tomato			
+4	Borage		help	Squash			
+4	Chamomile		help	Brassicas			
+4	Chamomile		help	Cucumber			
+4	Chamomile		help	Most herbs			
+4	Chamomile		help	Melon			
+4	Chamomile		help	Onion			
+4	Chervil		help	Radish			
+4	Chive		help	Carrot			
+4	Chive		help	Grape			
+4	Chive		help	Rose			
+4	Chive		help	Tomato			
+4	Coriander		help	Anise			
+4	Dandelion		help	fruit tree			
+4	Dead nettle		help	Potato			
+4	Dill		help	Brassicas			
+4	Dill		help	Lettuce			
+4	Dill		help	Onion			
+4	Dill, Immature		help	Tomato			
+4	Garlic		help	Rose			
+4	Garlic		help		Beta vulgaris		
+4	Garlic		help	Brassicas			
+4	Horseradish		help	Potato			
+4	Hyssop		help	Cabbage			
+4	Hyssop		help	Grape			
+4	Larkspur		help	Bean			
+4	Larkspur		help	Cabbage			
+4	Lovage		help	Bean			
+4	Marigold		help	Potato			
+4	Marigold		help	Rose			
+4	Marigold		help	Tomato			
+4	Mint		help	Cabbage			
+4	Mint		help	Pea			
+4	Mint		help	Tomato			
+4	Mustard		help	Bean			
+4	Mustard		help	fruit tree			
+4	Mustard		help	Grape			
+4	Nasturtiums		help	Cucumber			
+4	Nasturtiums		help	Radish			
+4	Onion		help		Beta vulgaris		
+4	Onion		help	Cabbage			
+4	Onion		help	Lettuce			
+4	Onion		help	Strawberry			
+4	Oregano		help	Pumpkin			
+4	Pigweed		help	Corn			
+4	Pigweed		help	Melon			
+4	Rosemary		help	Bean			
+4	Rue		help	Fig			
+4	Sage		help	Cabbage			
+4	Sage		help	Carrot			
+4	Sage		help	Strawberry			
+4	Sage		help	Tomato			
+4	Sage		help	Marjoram			
+4	Summer savory		help	Bean			
+4	Summer savory		help	Onion			
+4	Summer savory		help	Melon			
+4	Sow thistle		help	Melon			
+4	Tansy		help	Blackberry			
+4	Tansy		help	Raspberry			
+4	Tansy		help	Rose			
+4	Tarragon		help	Most vegetables			
+4	Thyme		help	Eggplant			
+4	Thyme		help	Potato			
+4	Thyme		help	Strawberry			
+4	Thyme		help	Tomato			
+4	Yarrow		help	Aromatic herbs			
+5	Carrot		dislike	Anise			
+5	Sugar maple		dislike	Aster			
+5	Red pine		dislike	Aster			
+5	Tulip poplar		dislike	Aster			
+5	Black cherry		dislike	Aster			
+5	Green alder		dislike	Balsam poplar			
+5	Pole bean		dislike	Beets			
+5	Red pine		dislike	Black cherry			
+5	Red maple		dislike	Black cherry			
+5	Pine (Austrian, red, Scotch, white); apple, white birch		dislike	Black walnut			
+5	Strawberry		dislike	Cabbage			
+5	Bean		dislike	Chive			
+5	Pea		dislike	Chive			
+5	Lettuce		dislike	Chrysanthemum			
+5	Fennel		dislike	Coriander			
+5	Carrot		dislike	Dill			
+5	Tomato		dislike	Dill			
+5	Bean		dislike	Fennel			
+5	Pepper		dislike	Fennel			
+5	Poplus sp.		dislike	Foxtail & Smooth broome			
+5	Bean		dislike	Garlic			
+5	Pea		dislike	Garlic			
+5	Sugar maple		dislike	Golden rod			
+5	Red pine		dislike	Golden rod			
+5	Tulip poplar		dislike	Golden rod			
+5	Black cherry		dislike	Golden rod			
+5	Radish		dislike	Hyssop			
+5	Azalea		dislike	Kentucky bluegrass			
+5	Barberry		dislike	Kentucky bluegrass			
+5	Taxus		dislike	Kentucky bluegrass			
+5	Forsythia		dislike	Kentucky bluegrass			
+5	Cornus sp.		dislike	Kentucky bluegrass			
+5	Tomato		dislike	Kohlrabi			
+5		Beta vulgaris	dislike	Larkspur			
+5	Turnip		dislike	Mustard			
+5	Bean		dislike	Onion			
+5	Pea		dislike	Onion			
+5	Sage		dislike	Onion			
+5	Apple		dislike	Perennial rye			
+5	Forsythia		dislike	Perennial rye			
+5	Cornus sp.		dislike	Perennial rye			
+5	Beets		dislike	Pole bean			
+5	Pumpkin		dislike	Potato			
+5	Squash		dislike	Potato			
+# conflict: 5	Turnip		dislike	Potato			
+5	Azalea		dislike	Red fescue			
+5	Barberry		dislike	Red fescue			
+5	Taxus		dislike	Red fescue			
+5	Forsythia		dislike	Red fescue			
+5	cornus sp.		dislike	Red fescue			
+5	Douglas fir		dislike	Rhododendron			
+5	Basil		dislike	Rue			
+5	Cabbage		dislike	Rue			
+5	Sage		dislike	Rue			
+5	Onion		dislike	Sage			
+5	Box elder		dislike	Sassafras			
+5	Elm		dislike	Sassafras			
+5	Silver maple		dislike	Sassafras			
+5	Bean		dislike	Shallot			
+5	Sweetgum		dislike	Southern red oak			
+5	Yellow birch		dislike	Sugar maple			
+5	White spruce		dislike	Sugar maple			
+5	Douglas fir		dislike	Sumac			
+5	Yellow birch		dislike	Sycamore maple			
+5	Black walnut		dislike	Tall fescue			
+5	Sweetgum		dislike	Tall fescue			
+5	White ash		dislike	Tall fescue			
+5	Collard		dislike	Tansy			
+5	Kohlrabi		dislike	Tomato			
+5	Most vegetables		dislike	Wormwood			

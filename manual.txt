@@ -1,0 +1,56 @@
+This application is planning tool for kitchen gardeners.
+
+Prerequisite
+A kitchen garden
+The meaning of crop rotation and companion planting.
+
+How to do it
+Arrange your kitchen garden in a grid. Squares should be one by one feet in size.
+If it is your first time using this software draw last years garden setup. After that draw current year. Each square can contain on or more plants. It is important that you put out stationary items, and not only plants, so that you can have a location reference from year to year. Save your garden blueprint. Next growing season you can add a new garden setup.
+
+Benefits
+In some squares you can see either a green ok icon or a red ban icon. This is called a hint. Hold your mouse over one of those icons and you will get a short explaniation of its reason. There are eleven diffrent types but more will be added in future version. Another benefit is you dont need labels in your garden.
+
+Hints
+Good companion
+Hint created when placing a beneficial plant nearby
+Example: Carrot with radish
+
+Bad companion
+Hint created when placing a disadvantageous plant nearby
+Example: Carrots with dill
+
+Fight disease
+Hint created when placing a disease fighting plant nearby
+Example: Strawberries with borage
+
+Pest repel
+Hint created when placing a pest repelant plant nearby
+Example: carrots with onion
+
+Flavor improvment
+Hint created when placing a flavor improving plant nearby
+Example: Tomatos with basil
+
+Same family or Same family nearby
+Hint created when placing a plant at the same square or neighbouring square within the same family within n years
+Example: Broccoli after cauliflower
+
+Species repetition or Species repetition nearby
+Hint created when placing a plant of the same species at the same square or neighbouring sqaure within n years
+Example: Potato after potato
+
+Good crop rotation
+Hint created when placing a good forecrop previous year
+Example: Legumes before brassicas
+
+Bad crop rotation
+Hint created when placing a bad forecrop previous year
+Example: No example
+
+
+License
+GNU General Public License version 3 as published by the Free Software Foundation.
+
+Contact
+If you want to contribute this software, need help or have an request don't hesitate to drop a line at http://sourceforge.net/projects/kitchengarden/forums

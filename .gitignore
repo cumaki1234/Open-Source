@@ -1,0 +1,13 @@
+/bin/
+kits
+/kits/
+*.class
+resources/pics/*.png
+/.gradle/
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+/gradleBuild/

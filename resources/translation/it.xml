@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Italian</comment>
+<entry key="author">Angelo Esposto</entry>
+<entry key="action_about">Informazioni su Kitchen Garden Aid</entry>
+<entry key="action_check_for_update">Controlla per aggiornamento</entry>
+<entry key="action_contact">Contatti</entry>
+<entry key="action_delete_year">Elimina un anno</entry>
+<entry key="action_edit_translation">Modifica  la traduzione</entry>
+<entry key="action_exit">Esci</entry>
+<entry key="action_export">Esporta</entry>
+<entry key="action_export_translation">Esporta la traduzione</entry>
+<entry key="action_garden_statistics">Statistiche dell'orto</entry>
+<entry key="action_help">Aiuto</entry>
+<entry key="action_language">Lingua</entry>
+<entry key="action_new_garden">Crea un nuovo orto</entry>
+<entry key="action_new_year">Aggiungi un anno</entry>
+<entry key="action_open">Apri</entry>
+<entry key="action_print">Stampa</entry>
+<entry key="action_print_setup">Impostazioni di stampa</entry>
+<entry key="action_review">Scrivi una recensione</entry>
+<entry key="action_save">Salva</entry>
+<entry key="action_save_as">Salva con nome</entry>
+<entry key="action_show_an_example">Mostra un esempio</entry>
+<entry key="action_show_another_example">Mostra un altro esempio</entry>
+<entry key="action_species_properties">Proprietà specie</entry>
+<entry key="action_tags">Tags</entry>
+<entry key="action_zoom">Ingrandisci</entry>
+<entry key="add">Aggiungi</entry>
+<entry key="add_year">Aggiungi un anno</entry>
+<entry key="all">Tutti</entry>
+<entry key="allowed_repetitions">Ripetizioni  ammesse</entry>
+<entry key="ask_review">Vuoi dare un breve commento su KitchenGardenAid?</entry>
+<entry key="automatically_check">Controlla automaticamente l'aggiornamento (una volta al mese)</entry>
+<entry key="cancel">Cancella</entry>
+<entry key="cannot_add_year">Impossibile aggiungere l'anno</entry>
+<entry key="choose_year_to_add">Scegli l'anno da aggiungere</entry>
+<entry key="choose_year_to_delete">Scegli l'anno da eliminare</entry>
+<entry key="companion_bad">Non consociabili</entry>
+<entry key="companion_good">Consociabili</entry>
+<entry key="companion_inhibit">inibisce</entry>
+<entry key="companion_repel_pest">Repelle i parassiti</entry>
+<entry key="pleaseSelectPlant">Seleziona la pianta</entry>
+<entry key="plantDetails">Dettagli dell'impianto</entry>
+<entry key="selectPlantToAdd">Seleziona Pianta da aggiungere</entry>
+<entry key="delete">Cancella</entry>
+<entry key="delete_square">Elimina un quadrato ( tieni premuto shift )</entry>
+<entry key="disadvantageous">Svantaggiose//Non consociabili</entry>
+<entry key="do_you_want_to_save">Vuoi salvare prima ?</entry>
+<entry key="error">Errore</entry>
+<entry key="error_loading_file">Errore caricamento archivio</entry>
+<entry key="error_print">Errore di stampa</entry>
+<entry key="error_saving_file">Errore nel salvataggio dell'archivio</entry>
+<entry key="family">Famiglia</entry>
+<entry key="family_repetition_gap">Intervallo rotazione coltura per famiglia</entry>
+<entry key="file">Archivio</entry>
+<entry key="garden">Orto</entry>
+<entry key="go_to_download">Vai alla pagina di download</entry>
+<entry key="in">In</entry>
+<entry key="invalid_file_format">Formato dell'archivio non valido</entry>
+<entry key="invert">Inverti</entry>
+<entry key="lifetime_annual">Annuale</entry>
+<entry key="lifetime_perennial">Perenne</entry>
+<entry key="modify">Modifica</entry>
+<entry key="name">Nome</entry>
+<entry key="new_language">Nuova lingua</entry>
+<entry key="new_version_available">Nuova versione disponibile</entry>
+<entry key="no_new_version_available">Nessuna nuova versione disponibile</entry>
+<entry key="none">Nessuno</entry>
+<entry key="ok">Ok</entry>
+<entry key="recent_files">Archivi recenti</entry>
+<entry key="remove">Rimuovi</entry>
+<entry key="repetition_gap">Intervallo rotazione colture</entry>
+<entry key="rotation_after">Dopo</entry>
+<entry key="rotation_bad">Cattiva rotazione delle colture</entry>
+<entry key="rotation_good">Buona rotazione della coltura</entry>
+<entry key="rotation_repetition_family">Stessa famiglia</entry>
+<entry key="rotation_repetition_species">Ripetizione delle specie</entry>
+<entry key="select_species_first">Seleziona le specie prima</entry>
+<entry key="species">Specie</entry>
+<entry key="species_in_garden">Nell'orto</entry>
+<entry key="tag">Tag</entry>
+<entry key="tag_delete">Elimina tag</entry>
+<entry key="tag_delete_confirmation">Vuoi eliminare il tag ?</entry>
+<entry key="tag_invalid_name">Nome del tag non valido</entry>
+<entry key="total_squares">Totale quadrati</entry>
+<entry key="total_years">Totale anni</entry>
+<entry key="tutorial">Corso</entry>
+<entry key="unknown">Sconosciuto</entry>
+<entry key="unit">Unità</entry>
+<entry key="year">Anno</entry>
+<entry key="years">anni</entry>
+<entry key="companion_improve_root_development">sviluppo delle radici</entry>
+<!--following translations contributed by MarcoM in https://sourceforge.net/p/kitchengarden2/tickets/1/-->
+<entry key="action_edit_species">Modifica specie (sperimentale)</entry> <entry key="action_import">Importa</entry> <entry key="action_new_seed_list">Nuova lista semi</entry> <entry key="action_seed_manager">Gestione semi</entry> <entry key="action_upload_to_web">Carica sul web</entry> <entry key="action_year_add">Aggiungi anno</entry> <entry key="action_year_delete">Rimuovi anno</entry> <entry key="close">Chiudi</entry> <entry key="comment">Commento</entry> <entry key="companion_helped_by">Aiutato da</entry> <entry key="copy">Copia</entry> <entry key="debug">Debug</entry> <entry key="dont_skip">Non saltare</entry> <entry key="grid">Griglia</entry> <entry key="image">Immagine</entry> <entry key="import_csv">Importa CSV</entry> <entry key="measurement_unit_grams">Grammi</entry> <entry key="missing_translations">Traduzioni mancanti</entry> <entry key="move">Muovi</entry> <entry key="not_tagged">Nessun tag</entry> <entry key="now">Ora</entry> <entry key="only_missing_translations">Solo traduzioni mancanti</entry> <entry key="overwrite_file">Sovrascrivi file</entry> <entry key="page">Pagina</entry> <entry key="ph">PH</entry> <entry key="plan">Pianta</entry> <entry key="quantity">Quantità</entry> <entry key="rename">Rinomina</entry> <entry key="replace">Sostituisci</entry> <entry key="replace_all">Sostituisci tutti</entry> <entry key="search">Cerca</entry> <entry key="search_case_insensitive">Non distinguere maiuscole o minuscole</entry> <entry key="seed_manager_different_page">Elenco in una pagina diversa</entry> <entry key="seed_manager_options">Opzioni</entry> <entry key="seed_manager_shopping_list">Lista della spesa</entry> <entry key="seed_manager_view_comment">Visualizza commento</entry> <entry key="seed_manager_view_quantity">Visualizza quantità</entry> <entry key="seed_manager_view_valid_from">Visualizza valido da</entry> <entry key="seed_manager_view_valid_to">Visualizza valido per</entry> <entry key="seed_manager_view_variety">Visualizza varietà</entry> <entry key="skip">Salta</entry> <entry key="species_in_inventory">Nell'inventario</entry> <entry key="tag_add">Aggiungi tag</entry> <entry key="tag_modify">Modifica tag</entry> <entry key="tutorial_first_garden">Come progettare il primo giardino</entry> <entry key="valid_from">Valido da</entry> <entry key="valid_to">Valido per</entry> <entry key="variety">Varietà</entry> <entry key="weed_control_clear">Pulisci</entry>
+<!--following translations contributed by MarcoM in https://sourceforge.net/p/kitchengarden2/tickets/2/ -->
+<entry key="action_soil_nutrition">Nutrizione del suolo</entry> <entry key="action_track">Traccia</entry> <entry key="analytics_groupby">Raggruppa per</entry> <entry key="analytics_metrics">Metrica</entry> <entry key="analyze">Analisi</entry> <entry key="changes_date">Date con cambiamenti</entry> <entry key="companion_attract_beneficial">attirare benefici</entry> <entry key="companion_attract_pest">attirare i parassiti</entry> <entry key="companion_dislike">non ama</entry> <entry key="companion_improve">Migliorativo</entry> <entry key="companion_improve_flavor">gusto</entry> <entry key="companion_improve_growth">crescita</entry> <entry key="companion_improve_health">salute</entry> <entry key="companion_improve_pest_resistance">Resistenza ai parassiti</entry> <entry key="companion_improve_soil_fertility">Fertilità del terreno</entry> <entry key="companion_improve_vigor">vigore</entry> <entry key="companion_trap_pest">trappola parassita</entry> <entry key="genus">Genere</entry> <entry key="lifetime_biennial">Biennale</entry> <entry key="measurement_unit_pieces">pc.</entry> <entry key="nutritional_needs_soil_improver">Miglioratore del suolo</entry> <entry key="plant">Pianta</entry> <entry key="plant_count">Conteggio delle piante</entry> <entry key="rotation_root_type_deep">Radicato in profondità</entry> <entry key="rotation_root_type_same_level">Radice allo stesso livello</entry> <entry key="rotation_root_type_shallow">Radice poco profonda</entry> <entry key="scientific">scientifico</entry> <entry key="search_direction_by_column">Direzione per colonna</entry> <entry key="search_direction_reverse">Direzione inversa</entry> <entry key="search_whole_text">Tutto il testo</entry> <entry key="seed_manager_autogenerate">Autogenera lista della spesa</entry> <entry key="seed_manager_from_garden">Utilizza il progetto del giardino</entry> <entry key="seed_manager_from_inventory">Utilizza il precedente inventario</entry> <entry key="seed_manager_inventory">Inventario</entry> <entry key="seed_manager_tools">Strumenti</entry> <entry key="select_plants">Seleziona le piante</entry> <entry key="size">Dimensione</entry> <entry key="sources">Fonti</entry> <entry key="update_missing_translations">Vuoi aggiornare le traduzioni mancanti?</entry> <entry key="weed_control_weedy">Erbaccie</entry> <entry key="working_date">Data lavorazione</entry> 
+</properties>

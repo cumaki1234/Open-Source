@@ -1,0 +1,193 @@
+source	What to Plant Around Fruit Trees | Garden Guides	http://www.gardenguides.com/83423-plant-around-fruit-trees.html
+source	Carrots Love Tomatoes	www.motherearthnews.com/organic-gardening/carrots-love-tomatoes-companion-planting-for-a-healthy-garden-zb0z11zBug.aspx
+source	Compatible Plants with Onion & Garlic | Home Guides | SF Gate	http://homeguides.sfgate.com/compatible-plants-onions-garlic-22804.html
+tag	fruit tree	Apple
+tag	Beans	Bean	Broadbean	Pea	Soybean
+ref	page	name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info
+1			Allium	help	fruit tree		repel	Fruit Tree Borer
+1		Tansy		help	fruit tree		repel	ants, Fly, moth, other harmful Insects
+1		Nasturtiums		help	fruit tree		repel	Codling Moth
+1		Marigold		help	fruit tree		improve	pest_resistance
+1		Marigold		help	fruit tree		repel	Worm
+1		Spring bulbs		help	fruit tree		attract	Bee
+1		Marjoram		help	fruit tree		attract	Bee
+1		Lemon balm		help	fruit tree		attract	Bee
+1		Borage		help	fruit tree		attract	Bee
+2	1	Asparagus		help eachother	Parsley		improve	vigor
+2	1	Asparagus		help eachother	Basil			
+2	1	Basil		help	Tomato			
+2	1	Tomato		help	Asparagus		repel	Asparagus Beetle
+2	1	Asparagus		help	Tomato		repel	Nematodes
+2	2	Carrot		help	Bean			
+2	2	Cauliflower		help	Bean			
+2	2		Beta vulgaris	help	Bean			
+2	2	Cucumber		help	Bean			
+2	2	Brassicas		help	Bean			
+2	2	Marigold		help	Bean		repel	Mexican Bean Beetle
+2	2	Summer savory		help	Bean		improve	growth, flavor
+2	2	Summer savory		help	Bean		repel	Bean Beetle
+2	2		Allium	inhibit	Bean			
+2	2	Bean		dislike	Gladiolus			
+2	2	Carrot		help	Broadbean			
+2	2	Cauliflower		help	Broadbean			
+2	2		Beta vulgaris	help	Broadbean			
+2	2	Cucumber		help	Broadbean			
+2	2	Brassicas		help	Broadbean			
+2	2	Marigold		help	Broadbean		repel	Mexican Bean Beetle
+2	2	Summer savory		help	Broadbean		improve	growth, flavor
+2	2	Summer savory		help	Broadbean		repel	Bean Beetle
+2	2		Allium	inhibit	Broadbean			
+2	2	Broadbean		dislike	Gladiolus			
+2	2	Corn		help	Broadbean			
+2	2	Bean		help	Potato		repel	Colorado Bug
+2	2	Potato		help	Bean		repel	Mexican Bean Beetle
+2	2	Bean, bush		help eachother	Cucumber			
+2	2	Bean, bush		help eachother	Strawberry			
+2	2	Bean		help	Corn			
+2	2	Bean, Pole		dislike	Kohlrabi			
+2	2	Bean, Pole		dislike	Sunflower			
+2	2	Bean, Pole		inhibit		Beta vulgaris		
+2	2	Bean, Pole		help eachother	Radish			
+2	2	Bea balm		help	Tomato		improve	growth, flavor
+2	2	Bean bush		help		Beta vulgaris		
+2	2		Allium	help		Beta vulgaris		
+2	2	Kohlrabi		help		Beta vulgaris		
+2	2	Field mustard		inhibit		Beta vulgaris		
+2	2	Charlock		inhibit		Beta vulgaris		
+2	2		Beta vulgaris	like	Lettuce			
+2	3	Dill		help	Brassicas			
+2	3	Celery		help	Brassicas			
+2	3	Chamomile		help	Brassicas			
+2	3	Sage		help	Brassicas			
+2	3	Mint		help	Brassicas			
+2	3	Rosemary		help	Brassicas			
+2	3	Potato		like eachother	Brassicas			
+2	3		Beta vulgaris	help	Brassicas			
+2	3	Onion		help	Brassicas			
+2	3	Tomato		inhibit	Broccoli			
+2	3	pole beans		inhibit	Broccoli			
+2	3	Strawberry		inhibit	Broccoli			
+2	3	Hyssop		help	Brassicas		repel	Cabbage Butterfly
+2	3	Thyme		help	Brassicas		repel	Cabbage Butterfly
+2	3	Wormwood		help	Brassicas		repel	Cabbage Butterfly
+2	3	southernwood		help	Brassicas		repel	Cabbage Butterfly
+2	3		Allium	help	Brassicas		repel	Rabbit
+2	3	Mint		help	Brassicas		repel	Cabbage Butterfly
+2	3	Hyssop		help	Brassicas		repel	Cabbage Butterfly
+2	3	Mint		help	Brassicas		repel	Cabbage Butterfly
+2	3	Rosemary		help	Brassicas		repel	Cabbage Butterfly
+2	3	Sage		help	Brassicas		repel	Cabbage Butterfly
+2	3	Thyme		help	Brassicas		repel	Cabbage Butterfly
+2	3	southernwood		help	Brassicas		repel	Cabbage Butterfly
+2	3	Brassicas		dislike	Strawberry			
+2	3	Brassicas		dislike	Tomato			
+2	3	Brassicas		dislike	pole beans			
+2	3	Leek		help	Celery			
+2	3	Tomato		help	Celery			
+2	3	Brassicas		help	Celery			
+2	3	bush bean		help eachother	Celery			
+2	3	Corn		like eachother	Potato			
+2	3	Corn		like	Beans			
+2	3	Corn		like	Cucumber			
+2	3	Corn		like	Pumpkin			
+2	3	Corn		like	Squash			
+2	4	Melon		like	Corn			
+2	4	Squash		like	Corn			
+2	4	Pumpkin		like	Corn			
+2	4	Cucumber		like	Corn			
+2	4		Cucurbitaceae	help	Corn		repel	Racoon
+2	4	Corn		inhibit eachother	Tomato		attract	Tomato Hornworm,Corn Earworm
+2	4	Corn		help	Cucumber		repel	Wilt
+2	4	Cucumber		like	Beans			
+2	4	Cucumber		like	Radish			
+2	4	Cucumber		like	Sunflower			
+2	4	Cucumber		dislike	Potato			
+2	4	Cucumber		inhibit	Potato		attract	Phytophthora Blight
+2	4	Bean		help	Eggplant		repel	Colorado Bug
+2	4	redroot pigweed		help	Eggplant		improve	resistance to insect atack
+2	5	Garlic		help	fruit tree		repel	Borer
+2	5	Garlic		help	Vetch			
+2	5	Garlic		help	Rose			
+2	5		Allium	inhibit	Beans			
+2	5	Garlic		help	Tomato		repel	Red Spider
+2	5	Leek		like eachother	Celery			
+2	5	Leek		like eachother	Onion			
+2	5	Leek		like	Carrot			
+2	5	Leek		help	Carrot		repel	Carrot Fly
+2	5		Allium	help	Lettuce		repel	Rabbit
+2	5	Lettuce		like	Strawberry			
+2	5	Lettuce		like	Cucumber			
+2	5	Lettuce		like	Carrot			
+2	5	Lettuce		help eachother	Radish			
+2	6	Okra		help eachother	Bell pepper			
+2	6	Okra		help eachother	Eggplant			
+2	6	Onion		help eachother	Brassicas			
+2	6	Onion		like		Beta vulgaris		
+2	6	Onion		like	Strawberry			
+2	6	Onion		like	Tomato			
+2	6	Onion		like	Lettuce			
+2	6	Onion		like	Summer savory			
+2	6	Onion		like	Chamomile			
+2	6		Allium	dislike	Beans			
+2	6	Parsley		help	Carrot		repel	Carrot Fly
+2	6	Parsley		help	Rose		repel	rose Beetle
+2	6	Parsley		help	Tomato		improve	vigor
+2	6	Parsley		help	Asparagus		improve	vigor
+2	6	Pea		like	Carrot			
+2	6	Pea		like	Turnip			
+2	6	Pea		like	Radish			
+2	6	Pea		like	Cucumber			
+2	6	Pea		like	Corn			
+2	6	Pea		like	Bean			
+2	6	Pea		like	Potato			
+2	6	Pea		dislike	Onion			
+2	6	Pea		dislike	Garlic			
+2	6	Pea		dislike	gladiolus			
+2	6	Pumpkin		like	jimson weed			
+2	6	Pumpkin		like	Corn			
+2	6	Pumpkin		inhibit eachother	Potato			
+2	7	Spinach		like	Strawberry			
+2	7	Nasturtiums		help	Squash		repel	Squash Bug
+2	7	Tomato		inhibit eachother	Brassicas			
+2	7	Tomato		help	Gooseberry		repel	Insects
+2	7	Tomato		like	Chive			
+2	7	Tomato		like	Onion			
+2	7	Tomato		like	Parsley			
+2	7	Tomato		like	Marigold			
+2	7	Tomato		like	Nasturtiums			
+2	7	Tomato		like	Carrot			
+2	7	Garlic		help	Tomato		repel	Red Spider
+2	7	Tomato		help	Rose		repel	black spot
+2	8	Kohlrabi		inhibit	Tomato			
+2	8	Fennel		inhibit	Tomato			
+2	8	Turnip		help eachother	Vetch			
+2	8	Turnip		help eachother	Pea			
+2	8	Turnip		dislike	hedge mustard			
+2	8	Turnip		dislike	Knotweed			
+3		Onion		help	Brassicas		repel	Cabbage Loopers, Cabbage Worm, Japanese Beetle, Aphid, Rabbit
+3		Garlic		help	Brassicas		repel	Cabbage Loopers, Cabbage Worm, Japanese Beetle, Aphid, Rabbit
+3		Garlic		help	Tomato		repel	Red Spider
+3			Allium	help	Celery		improve	pest_resistance
+3			Allium	help	Carrot		improve	pest_resistance
+3		Onion		like eachother	Chamomile			
+3		Onion		like eachother	Dill			
+3		Onion		like eachother	Summer savory			
+3		Onion		like eachother	Parsley			
+3		Garlic		like eachother	Chamomile			
+3		Garlic		like eachother	Dill			
+3		Garlic		like eachother	Summer savory			
+3		Garlic		like eachother	Parsley			
+3		Onion		like eachother		Beta vulgaris		
+3		Onion		like eachother	Bell pepper			
+3		Onion		like eachother	Spinach			
+3		Onion		like eachother	Lettuce			
+3		Onion		like eachother	Parsnip			
+3		Garlic		like eachother		Beta vulgaris		
+3		Garlic		like eachother	Bell pepper			
+3		Garlic		like eachother	Spinach			
+3		Garlic		like eachother	Lettuce			
+3		Garlic		like eachother	Parsnip			
+3		Onion		help	Strawberry		improve	pest_resistance
+3		Onion		help	Peach		improve	pest_resistance
+3		Garlic		help	Strawberry		improve	pest_resistance
+3		Garlic		help	Peach		improve	pest_resistance

@@ -1,0 +1,34 @@
+source	Companion Planting Guide	http://activities.byui.edu/married/pdf/Companion%20Planting%20Guide.pdf
+source	Limestone County Master Gardeners - Companion Plants	http://www.aces.edu/counties/Limestone/MastGard/companions.htm
+source	Uncle Luke's Feed Store	http://www.unclelukes.com/companion-planting/companion-planting-chart
+source	BBC - Gardening - Gardening Guides - Techniques - Companion planting	http://www.bbc.co.uk/gardening/basics/techniques/organic_companionplanting1.shtml
+ref	page	name	scientific	companion_type	companion_name	companion_scientific	companion_effect	companion_info
+1	1	Potato		help	Brassicas		repel	Cabbage Worm
+#conflict: 1	1	Tomato		help	Brassicas		repel	Cabbage Worm
+1	1	Celery		help	Brassicas		repel	Cabbage Worm
+1	1	Dill		help	Brassicas		repel	Cabbage Worm
+1	1	Chamomile		help	Brassicas		repel	Cabbage Worm
+1	1	Sage		help	Brassicas		repel	Cabbage Worm
+1	1	Thyme		help	Brassicas		repel	Cabbage Worm
+1	1	Mint		help	Brassicas		repel	Cabbage Worm
+1	1	Rosemary		help	Brassicas		repel	Cabbage Worm
+1	1	Lavender		help	Brassicas		repel	Cabbage Worm
+1	1	Beetroot		help	Brassicas		repel	Cabbage Worm
+1	1	Onion		help	Brassicas		repel	Cabbage Worm
+2	1	Nasturtiums		help	Brassicas		repel	Cabbage Moth
+3		Chamomile		help	Brassicas		improve	flavor
+3		Chamomile		help	Cucumber		improve	flavor
+3		Chamomile		help	Onion		improve	flavor
+4		Marigold		help	Tomato		repel	Aphid, Black Fly
+4		Sage		help eachother	Carrot		improve	pest_resistance
+4		Sage		help eachother	Brassicas		improve	pest_resistance
+4		Nasturtiums		help	Brassicas		trap	Caterpillars
+4		Garlic		help	Rose		repel	Aphid
+4		Leek		help	Carrot		repel	Carrot Fly
+4		Carrot		help		Allium	repel	Onion Fly
+4		Carrot		help	Leek		repel	Onion Fly
+4		Asparagus		help	Tomato		repel	Nematodes
+4		Chervil		help	Lettuce		repel	Aphid
+4		Chive		help	Chrysanthemum		repel	Aphid
+4		Chive		help	Sunflower		repel	Aphid
+4		Chive		help	Tomato		repel	Aphid

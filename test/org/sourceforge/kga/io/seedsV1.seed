@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<seed-list xmlns="org:sourceforge:kga:seedList" version="1">
+    <inventory>
+        <seed plantId="44" variety="Early Girl" validFrom="20200908"/>
+        <seed plantId="44" variety="Roma" validFrom="20200908"/>
+    </inventory>
+    <shopping>
+    </shopping>
+</seed-list>
